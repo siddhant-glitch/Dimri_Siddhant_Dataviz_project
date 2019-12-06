@@ -1,9 +1,8 @@
 # Olympic Data Vizualization Project
 
-### synopsis would go here 
+### Some basic findings regarding the olympic data 
 
-and some text about your project, your insights, etc
 
-###Author
+###Siddhant Dimri
 
 ### 
