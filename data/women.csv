@@ -1,0 +1,1827 @@
+Year,City,Sport,Athlete,Country,Gender,Event,Medal
+1998,Nagano,Skiing,"STEGGALL, Zali",AUS,Women,Slalom,Bronze
+2002,Salt Lake City,Skiing,"CAMPLIN, Alisa",AUS,Women,Aerials,Gold
+2006,Turin,Skiing,"CAMPLIN, Alisa",AUS,Women,Aerials,Bronze
+2010,Vancouver,Skiing,"LASSILA, Lydia",AUS,Women,Aerials,Gold
+2010,Vancouver,Skiing,"BRIGHT, Torah",AUS,Women,Half-Pipe,Gold
+2014,Sochi,Skiing,"LASSILA, Lydia",AUS,Women,Aerials,Bronze
+2014,Sochi,Skiing,"BRIGHT, Torah",AUS,Women,Half-Pipe,Silver
+1924,Chamonix,Skating,"SZABO-PLANK, Herma",AUT,Women,Individual,Gold
+1924,Chamonix,Skating,"ENGELMANN, Helene",AUT,Women,Pairs,Gold
+1928,St.Moritz,Skating,"BURGER, Fritzi",AUT,Women,Individual,Silver
+1928,St.Moritz,Skating,"BRUNNER, Melitta",AUT,Women,Pairs,Bronze
+1928,St.Moritz,Skating,"SCHOLZ, Lilly",AUT,Women,Pairs,Silver
+1932,Lake Placid,Skating,"BURGER, Fritzi",AUT,Women,Individual,Silver
+1936,Garmisch Partenkirchen,Skating,"PAUSIN, Ilse",AUT,Women,Pairs,Silver
+1948,St.Moritz,Skating,"PAWLIK, Eva",AUT,Women,Individual,Silver
+1948,St.Moritz,Skiing,"MAHRINGER, Erika",AUT,Women,Alpine Combined,Bronze
+1948,St.Moritz,Skiing,"BEISER-JOCHUM, Trude",AUT,Women,Alpine Combined,Gold
+1948,St.Moritz,Skiing,"HAMMERER, Resi",AUT,Women,Downhill,Bronze
+1948,St.Moritz,Skiing,"BEISER-JOCHUM, Trude",AUT,Women,Downhill,Silver
+1948,St.Moritz,Skiing,"MAHRINGER, Erika",AUT,Women,Slalom,Bronze
+1952,Oslo,Skiing,"BEISER-JOCHUM, Trude",AUT,Women,Downhill,Gold
+1952,Oslo,Skiing,"ROM, Dagmar",AUT,Women,Giant Slalom,Silver
+1956,Cortina d'Ampezzo,Skating,"WENDL, Ingrid",AUT,Women,Individual,Bronze
+1956,Cortina d'Ampezzo,Skating,"SCHWARZ, Elisabeth",AUT,Women,Pairs,Gold
+1956,Cortina d'Ampezzo,Skiing,"HOCHLEITNER, Dorothea",AUT,Women,Giant Slalom,Bronze
+1956,Cortina d'Ampezzo,Skiing,"FRANDL, Josefine",AUT,Women,Giant Slalom,Silver
+1956,Cortina d'Ampezzo,Skiing,"SCH胆PF, Regina",AUT,Women,Slalom,Silver
+1960,Squaw Valley,Skiing,"HECHER, Traudl",AUT,Women,Downhill,Bronze
+1964,Innsbruck,Luge,"THURNER, Helene",AUT,Women,Singles,Bronze
+1964,Innsbruck,Skating,"HEITZER, Regine",AUT,Women,Individual,Silver
+1964,Innsbruck,Skiing,"HECHER, Traudl",AUT,Women,Downhill,Bronze
+1964,Innsbruck,Skiing,"HAAS, Christl",AUT,Women,Downhill,Gold
+1964,Innsbruck,Skiing,"ZIMMERMANN, Edith",AUT,Women,Downhill,Silver
+1968,Grenoble,Skiing,"HAAS, Christl",AUT,Women,Downhill,Bronze
+1968,Grenoble,Skiing,"PALL, Olga",AUT,Women,Downhill,Gold
+1972,Sapporo,Skating,"SCHUBA, Beatrix",AUT,Women,Individual,Gold
+1972,Sapporo,Skiing,"MOSER-PROLL, Annemarie",AUT,Women,Downhill,Silver
+1972,Sapporo,Skiing,"DREXEL, Wiltrud",AUT,Women,Giant Slalom,Bronze
+1972,Sapporo,Skiing,"MOSER-PROLL, Annemarie",AUT,Women,Giant Slalom,Silver
+1976,Innsbruck,Skiing,"TOTSCHNIGG, Brigitte",AUT,Women,Downhill,Silver
+1980,Lake Placid,Skiing,"MOSER-PROLL, Annemarie",AUT,Women,Downhill,Gold
+1988,Calgary,Skiing,"WACHTER, Anita",AUT,Women,Alpine Combined,Gold
+1988,Calgary,Skiing,"WOLF, Sigrid",AUT,Women,Super-G,Gold
+1992,Albertville,Luge,"NEUNER, Doris",AUT,Women,Singles,Gold
+1992,Albertville,Luge,"NEUNER, Angelika",AUT,Women,Singles,Silver
+1992,Albertville,Skating,"HUNYADY, Emese",AUT,Women,3000M,Bronze
+1992,Albertville,Skiing,"KRONBERGER, Petra",AUT,Women,Alpine Combined,Gold
+1992,Albertville,Skiing,"WACHTER, Anita",AUT,Women,Alpine Combined,Silver
+1992,Albertville,Skiing,"STALLMAIER, Veronika",AUT,Women,Downhill,Bronze
+1992,Albertville,Skiing,"WACHTER, Anita",AUT,Women,Giant Slalom,Silver
+1992,Albertville,Skiing,"KRONBERGER, Petra",AUT,Women,Slalom,Gold
+1994,Lillehammer,Luge,"TAGWERKER, Andrea",AUT,Women,Singles,Bronze
+1994,Lillehammer,Skating,"HUNYADY, Emese",AUT,Women,1500M,Gold
+1994,Lillehammer,Skating,"HUNYADY, Emese",AUT,Women,3000M,Silver
+1994,Lillehammer,Skiing,"EDER, Elfriede",AUT,Women,Slalom,Silver
+1998,Nagano,Luge,"NEUNER, Angelika",AUT,Women,Singles,Bronze
+1998,Nagano,Skiing,"MEISSNITZER, Alexandra",AUT,Women,Giant Slalom,Silver
+1998,Nagano,Skiing,"MEISSNITZER, Alexandra",AUT,Women,Super-G,Bronze
+1998,Nagano,Skiing,"DORFMEISTER, Michaela",AUT,Women,Super-G,Silver
+1998,Nagano,Skiing,"KOECK, Brigitte",AUT,Women,Giant-Slalom,Bronze
+2002,Salt Lake City,Skiing,"GOETSCHL, Renate",AUT,Women,Alpine Combined,Silver
+2002,Salt Lake City,Skiing,"GOETSCHL, Renate",AUT,Women,Downhill,Bronze
+2006,Turin,Skiing,"SCHILD, Marlies",AUT,Women,Alpine Combined,Silver
+2006,Turin,Skiing,"DORFMEISTER, Michaela",AUT,Women,Downhill,Gold
+2006,Turin,Skiing,"SCHILD, Marlies",AUT,Women,Slalom,Bronze
+2006,Turin,Skiing,"HOSP, Nicole",AUT,Women,Slalom,Silver
+2006,Turin,Skiing,"MEISSNITZER, Alexandra",AUT,Women,Super-G,Bronze
+2006,Turin,Skiing,"DORFMEISTER, Michaela",AUT,Women,Super-G,Gold
+2010,Vancouver,Luge,"REITHMAYER, Nina",AUT,Women,Singles,Silver
+2010,Vancouver,Skiing,"GOERGL, Elisabeth",AUT,Women,Downhill,Bronze
+2010,Vancouver,Skiing,"GOERGL, Elisabeth",AUT,Women,Giant Slalom,Bronze
+2010,Vancouver,Skiing,"SCHILD, Marlies",AUT,Women,Slalom,Silver
+2010,Vancouver,Skiing,"FISCHBACHER, Andrea",AUT,Women,Super-G,Gold
+2010,Vancouver,Skiing,"KREINER, Marion",AUT,Women,Giant Parallel Slalom,Bronze
+2014,Sochi,Skiing,"FENNINGER, Anna",AUT,Women,Giant Slalom,Silver
+2014,Sochi,Skiing,"SCHILD, Marlies",AUT,Women,Slalom,Silver
+2014,Sochi,Skiing,"ZETTEL, Kathrin",AUT,Women,Slalom,Bronze
+2014,Sochi,Skiing,"HOSP, Nicole",AUT,Women,Super Combined,Silver
+2014,Sochi,Skiing,"FENNINGER, Anna",AUT,Women,Super-G,Gold
+2014,Sochi,Skiing,"HOSP, Nicole",AUT,Women,Super-G,Bronze
+2014,Sochi,Skiing,"IRASCHKO-STOLZ, Daniela",AUT,Women,K90 Individual,Silver
+2014,Sochi,Skiing,"DUJMOVITS, Julia",AUT,Women,Parallel Slalom,Gold
+1948,St.Moritz,Skating,"LANNOY, Micheline",BEL,Women,Pairs,Gold
+1994,Lillehammer,Biathlon,"PARAMYGINA, Svetlana",BLR,Women,7.5KM,Silver
+2010,Vancouver,Biathlon,"DOMRACHEVA, Darya",BLR,Women,15KM,Bronze
+2014,Sochi,Biathlon,"DOMRACHEVA, Darya",BLR,Women,10KM Pursuit,Gold
+2014,Sochi,Biathlon,"DOMRACHEVA, Darya",BLR,Women,12.5KM Mass Start,Gold
+2014,Sochi,Biathlon,"DOMRACHEVA, Darya",BLR,Women,15KM,Gold
+2014,Sochi,Biathlon,"SKARDINO, Nadezhda",BLR,Women,15KM,Bronze
+2014,Sochi,Skiing,"TSUPER, Alla",BLR,Women,Aerials,Gold
+1998,Nagano,Biathlon,"DAFOVSKA, Ekaterina",BUL,Women,15KM,Gold
+2002,Salt Lake City,Biathlon,"NIKOULTCHINA, Irina",BUL,Women,10KM Pursuit,Bronze
+2002,Salt Lake City,Skating,"RADANOVA, Evgenia",BUL,Women,1500M,Bronze
+2002,Salt Lake City,Skating,"RADANOVA, Evgenia",BUL,Women,500M,Silver
+2006,Turin,Skating,"RADANOVA, Evgenia",BUL,Women,500M,Silver
+1948,St.Moritz,Skating,"SCOTT, Barbara Ann",CAN,Women,Individual,Gold
+1948,St.Moritz,Skating,"MORROW, Suzanne",CAN,Women,Pairs,Bronze
+1956,Cortina d'Ampezzo,Skating,"DAFOE, Frances",CAN,Women,Pairs,Silver
+1956,Cortina d'Ampezzo,Skiing,"WHEELER, Lucile",CAN,Women,Downhill,Bronze
+1960,Squaw Valley,Skating,"WAGNER, Barbara",CAN,Women,Pairs,Gold
+1960,Squaw Valley,Skiing,"HEGGTVEIT, Anne",CAN,Women,Slalom,Gold
+1964,Innsbruck,Skating,"BURKA, Petra",CAN,Women,Individual,Bronze
+1964,Innsbruck,Skating,"WILKES, Debbi",CAN,Women,Pairs,Silver
+1968,Grenoble,Skiing,"GREENE, Nancy",CAN,Women,Giant Slalom,Gold
+1968,Grenoble,Skiing,"GREENE, Nancy",CAN,Women,Slalom,Silver
+1972,Sapporo,Skating,"MAGNUSSEN, Karen",CAN,Women,Individual,Silver
+1976,Innsbruck,Skating,"PRIESTNER, Cathy",CAN,Women,500M,Silver
+1976,Innsbruck,Skiing,"KREINER, Kathy",CAN,Women,Giant Slalom,Gold
+1988,Calgary,Skating,"WILSON, Tracy",CAN,Women,Ice Dancing,Bronze
+1988,Calgary,Skating,"MANLEY, Elizabeth",CAN,Women,Individual,Silver
+1988,Calgary,Skiing,"PERCY, Karen",CAN,Women,Downhill,Bronze
+1988,Calgary,Skiing,"PERCY, Karen",CAN,Women,Super-G,Bronze
+1992,Albertville,Biathlon,"BEDARD, Myriam",CAN,Women,15KM,Bronze
+1992,Albertville,Skating,"BRASSEUR, Isabelle",CAN,Women,Pairs,Bronze
+1992,Albertville,Skating,"CUTRONE, Angela",CAN,Women,3000M Relay,Gold
+1992,Albertville,Skating,"DAIGLE, Sylvie",CAN,Women,3000M Relay,Gold
+1992,Albertville,Skating,"LAMBERT, Nathalie",CAN,Women,3000M Relay,Gold
+1992,Albertville,Skating,"PERREAULT, Annie",CAN,Women,3000M Relay,Gold
+1992,Albertville,Skiing,"LEE-GARTNER, Kerrin",CAN,Women,Downhill,Gold
+1994,Lillehammer,Biathlon,"BEDARD, Myriam",CAN,Women,15KM,Gold
+1994,Lillehammer,Biathlon,"BEDARD, Myriam",CAN,Women,7.5KM,Gold
+1994,Lillehammer,Skating,"BRASSEUR, Isabelle",CAN,Women,Pairs,Bronze
+1994,Lillehammer,Skating,"LAMBERT, Nathalie",CAN,Women,1000M,Silver
+1994,Lillehammer,Skating,"BOUDRIAS, Christine",CAN,Women,3000M Relay,Silver
+1994,Lillehammer,Skating,"CHAREST, Isabelle",CAN,Women,3000M Relay,Silver
+1994,Lillehammer,Skating,"CUTRONE, Angela",CAN,Women,3000M Relay,Silver
+1994,Lillehammer,Skating,"DAIGLE, Sylvie",CAN,Women,3000M Relay,Silver
+1994,Lillehammer,Skating,"LAMBERT, Nathalie",CAN,Women,3000M Relay,Silver
+1994,Lillehammer,Skating,"AUCH, Susan",CAN,Women,500M,Silver
+1998,Nagano,Curling,"BETKER, Jan",CAN,Women,Curling,Gold
+1998,Nagano,Curling,"FORD, Atina",CAN,Women,Curling,Gold
+1998,Nagano,Curling,"GUDEREIT, Marcia",CAN,Women,Curling,Gold
+1998,Nagano,Curling,"MCCUSKER, Joan",CAN,Women,Curling,Gold
+1998,Nagano,Curling,"SCHMIRLER, Sandra",CAN,Women,Curling,Gold
+1998,Nagano,Ice Hockey,"BOTTERILL, Jennifer",CAN,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"BRISSON, Therese",CAN,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"CAMPBELL, Cassie",CAN,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"DIDUCK, Judy",CAN,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"DROLET, Nancy",CAN,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"DUPUIS, Lori",CAN,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"GOYETTE, Danielle",CAN,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"HEANEY, Geraldine",CAN,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"HEFFORD, Jayna",CAN,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"KELLAR, Becky",CAN,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"MCCORMACK, Katheryn",CAN,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"NYSTROM, Karen",CAN,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"REDDON, Lesley",CAN,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"RHEAUME, Manon",CAN,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"SCHULER, Laura",CAN,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"SMITH, Fiona",CAN,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"ST-LOUIS, France",CAN,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"SUNOHARA, Vicky",CAN,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"WICKENHEISER, Hayley",CAN,Women,Ice Hockey,Silver
+1998,Nagano,Ice Hockey,"WILSON, Stacy",CAN,Women,Ice Hockey,Silver
+1998,Nagano,Skating,"BOUDRIAS, Christine",CAN,Women,3000M Relay,Bronze
+1998,Nagano,Skating,"CHAREST, Isabelle",CAN,Women,3000M Relay,Bronze
+1998,Nagano,Skating,"PERREAULT, Annie",CAN,Women,3000M Relay,Bronze
+1998,Nagano,Skating,"VICENT, Tania",CAN,Women,3000M Relay,Bronze
+1998,Nagano,Skating,"PERREAULT, Annie",CAN,Women,500M,Gold
+1998,Nagano,Skating,"LEMAY DOAN, Catriona",CAN,Women,1000M,Bronze
+1998,Nagano,Skating,"LEMAY DOAN, Catriona",CAN,Women,500M,Gold
+1998,Nagano,Skating,"AUCH, Susan",CAN,Women,500M,Silver
+2002,Salt Lake City,Curling,"LAW, Kelley",CAN,Women,Curling,Bronze
+2002,Salt Lake City,Curling,"NELSON, Diane",CAN,Women,Curling,Bronze
+2002,Salt Lake City,Curling,"NOBLE, Cheryl",CAN,Women,Curling,Bronze
+2002,Salt Lake City,Curling,"SKINNER, Julie",CAN,Women,Curling,Bronze
+2002,Salt Lake City,Curling,"WHEATCROFT, Georgina",CAN,Women,Curling,Bronze
+2002,Salt Lake City,Ice Hockey,"ANTAL, Dana",CAN,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,"BECHARD, Kelly",CAN,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,"BOTTERILL, Jennifer",CAN,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,"BRISSON, Therese",CAN,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,"CAMPBELL, Cassie",CAN,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,"CHARTRAND, Isabelle",CAN,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,"DUPUIS, Lori",CAN,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,"GOYETTE, Danielle",CAN,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,"HEANEY, Geraldine",CAN,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,"HEFFORD, Jayna",CAN,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,"KELLAR, Becky",CAN,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,"OUELLETTE, Caroline",CAN,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,"PIPER, Cherie",CAN,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,"POUNDER, Cheryl",CAN,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,"SHEWCHUK, Tammy Lee",CAN,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,"SMALL, Sami Jo",CAN,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,"SOSTORICS, Colleen",CAN,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,"ST-PIERRE, Kim",CAN,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,"SUNOHARA, Vicky",CAN,Women,Ice Hockey,Gold
+2002,Salt Lake City,Ice Hockey,"WICKENHEISER, Hayley",CAN,Women,Ice Hockey,Gold
+2002,Salt Lake City,Skating,"SALE, Jamie",CAN,Women,Pairs,Gold
+2002,Salt Lake City,Skating,"CHAREST, Isabelle",CAN,Women,3000M Relay,Bronze
+2002,Salt Lake City,Skating,"DROLET, Marie-Eve",CAN,Women,3000M Relay,Bronze
+2002,Salt Lake City,Skating,"GOULET-NADON, Amelie",CAN,Women,3000M Relay,Bronze
+2002,Salt Lake City,Skating,"KRAUS, Alanna",CAN,Women,3000M Relay,Bronze
+2002,Salt Lake City,Skating,"VICENT, Tania",CAN,Women,3000M Relay,Bronze
+2002,Salt Lake City,Skating,"KLASSEN, Cindy",CAN,Women,3000M,Bronze
+2002,Salt Lake City,Skating,"HUGHES, Clara",CAN,Women,5000M,Bronze
+2002,Salt Lake City,Skating,"LEMAY DOAN, Catriona",CAN,Women,500M,Gold
+2002,Salt Lake City,Skiing,"SCOTT, Beckie",CAN,Women,5Km Pursuit,Gold
+2002,Salt Lake City,Skiing,"DIONNE, Deidra",CAN,Women,Aerials,Bronze
+2002,Salt Lake City,Skiing,"BRENNER, Veronica",CAN,Women,Aerials,Silver
+2006,Turin,Bobsleigh,"HOLLINGSWORTH-RICHARDS, Mellisa",CAN,Women,Individual,Bronze
+2006,Turin,Curling,"BAKKER, Glenys",CAN,Women,Curling,Bronze
+2006,Turin,Curling,"JENKINS, Sandra",CAN,Women,Curling,Bronze
+2006,Turin,Curling,"KESHEN, Christine",CAN,Women,Curling,Bronze
+2006,Turin,Curling,"KLEIBRINK, Shannon",CAN,Women,Curling,Bronze
+2006,Turin,Curling,"NIXON, Amy",CAN,Women,Curling,Bronze
+2006,Turin,Ice Hockey,"AGOSTA, Meghan",CAN,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,"APPS, Gillian",CAN,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,"BOTTERILL, Jennifer",CAN,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,"CAMPBELL, Cassie",CAN,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,"FERRARI, Gillian",CAN,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,"GOYETTE, Danielle",CAN,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,"HEFFORD, Jayna",CAN,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,"KELLAR, Becky",CAN,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,"KINGSBURY, Gina",CAN,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,"LABONTE, Charline",CAN,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,"MACLEOD, Carla",CAN,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,"OUELLETTE, Caroline",CAN,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,"PIPER, Cherie",CAN,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,"POUNDER, Cheryl",CAN,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,"SOSTORICS, Colleen",CAN,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,"SUNOHARA, Vicky",CAN,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,"VAILLANCOURT, Sarah",CAN,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,"WEATHERSTON, Katie",CAN,Women,Ice Hockey,Gold
+2006,Turin,Ice Hockey,"WICKENHEISER, Hayley",CAN,Women,Ice Hockey,Gold
+2006,Turin,Skating,"KRAUS, Alanna",CAN,Women,3000M Relay,Silver
+2006,Turin,Skating,"LEBLANC-BOUCHER, Anouk",CAN,Women,3000M Relay,Silver
+2006,Turin,Skating,"OVERLAND, Amanda",CAN,Women,3000M Relay,Silver
+2006,Turin,Skating,"ROBERGE, Kalyna",CAN,Women,3000M Relay,Silver
+2006,Turin,Skating,"VICENT, Tania",CAN,Women,3000M Relay,Silver
+2006,Turin,Skating,"LEBLANC-BOUCHER, Anouk",CAN,Women,500M,Bronze
+2006,Turin,Skating,"KLASSEN, Cindy",CAN,Women,1000M,Silver
+2006,Turin,Skating,"KLASSEN, Cindy",CAN,Women,1500M,Gold
+2006,Turin,Skating,"GROVES, Kristina",CAN,Women,1500M,Silver
+2006,Turin,Skating,"KLASSEN, Cindy",CAN,Women,3000M,Bronze
+2006,Turin,Skating,"KLASSEN, Cindy",CAN,Women,5000M,Bronze
+2006,Turin,Skating,"HUGHES, Clara",CAN,Women,5000M,Gold
+2006,Turin,Skating,"GROVES, Kristina",CAN,Women,Team Pursuit,Silver
+2006,Turin,Skating,"HUGHES, Clara",CAN,Women,Team Pursuit,Silver
+2006,Turin,Skating,"KLASSEN, Cindy",CAN,Women,Team Pursuit,Silver
+2006,Turin,Skating,"NESBITT, Christine",CAN,Women,Team Pursuit,Silver
+2006,Turin,Skating,"REMPEL, Shannon",CAN,Women,Team Pursuit,Silver
+2006,Turin,Skiing,"CRAWFORD, Chandra",CAN,Women,Sprint 1.5KM,Gold
+2006,Turin,Skiing,"RENNER, Sara",CAN,Women,Team Sprint,Silver
+2006,Turin,Skiing,"SCOTT, Beckie",CAN,Women,Team Sprint,Silver
+2006,Turin,Skiing,"HEIL, Jennifer",CAN,Women,Moguls,Gold
+2006,Turin,Skiing,"MALTAIS, Dominique",CAN,Women,Snowboard Cross,Bronze
+2010,Vancouver,Bobsleigh,"HUMPHRIES, Kaillie",CAN,Women,Two-Man,Gold
+2010,Vancouver,Bobsleigh,"MOYSE, Heather",CAN,Women,Two-Man,Gold
+2010,Vancouver,Bobsleigh,"BROWN, Shelley-Ann",CAN,Women,Two-Man,Silver
+2010,Vancouver,Bobsleigh,"UPPERTON, Helen",CAN,Women,Two-Man,Silver
+2010,Vancouver,Curling,"BARTEL, Cori",CAN,Women,Curling,Silver
+2010,Vancouver,Curling,"BERNARD, Cheryl",CAN,Women,Curling,Silver
+2010,Vancouver,Curling,"DARBYSHIRE, Carolyn",CAN,Women,Curling,Silver
+2010,Vancouver,Curling,"MOORE, Kristie",CAN,Women,Curling,Silver
+2010,Vancouver,Curling,"O CONNOR, Susan",CAN,Women,Curling,Silver
+2010,Vancouver,Ice Hockey,"AGOSTA, Meghan",CAN,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,"APPS, Gillian",CAN,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,"BONHOMME, Tessa",CAN,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,"BOTTERILL, Jennifer",CAN,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,"HEFFORD, Jayna",CAN,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,"IRWIN, Haley",CAN,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,"JOHNSTON, Rebecca",CAN,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,"KELLAR, Becky",CAN,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,"KINGSBURY, Gina",CAN,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,"LABONTE, Charline",CAN,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,"MACLEOD, Carla",CAN,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,"MIKKELSON, Meaghan",CAN,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,"OUELLETTE, Caroline",CAN,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,"PIPER, Cherie",CAN,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,"POULIN, Marie-Philip",CAN,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,"SOSTORICS, Colleen",CAN,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,"ST-PIERRE, Kim",CAN,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,"SZABADOS, Shannon",CAN,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,"VAILLANCOURT, Sarah",CAN,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,"WARD, Catherine",CAN,Women,Ice Hockey,Gold
+2010,Vancouver,Ice Hockey,"WICKENHEISER, Hayley",CAN,Women,Ice Hockey,Gold
+2010,Vancouver,Skating,"VIRTUE, Tessa",CAN,Women,Ice Dancing,Gold
+2010,Vancouver,Skating,"ROCHETTE, Joannie",CAN,Women,Individual,Bronze
+2010,Vancouver,Skating,"GREGG, Jessica",CAN,Women,3000M Relay,Silver
+2010,Vancouver,Skating,"ROBERGE, Kalyna",CAN,Women,3000M Relay,Silver
+2010,Vancouver,Skating,"ST-GELAIS, Marianne",CAN,Women,3000M Relay,Silver
+2010,Vancouver,Skating,"VICENT, Tania",CAN,Women,3000M Relay,Silver
+2010,Vancouver,Skating,"ST-GELAIS, Marianne",CAN,Women,500M,Silver
+2010,Vancouver,Skating,"NESBITT, Christine",CAN,Women,1000M,Gold
+2010,Vancouver,Skating,"GROVES, Kristina",CAN,Women,1500M,Silver
+2010,Vancouver,Skating,"GROVES, Kristina",CAN,Women,3000M,Bronze
+2010,Vancouver,Skating,"HUGHES, Clara",CAN,Women,5000M,Bronze
+2010,Vancouver,Skiing,"HEIL, Jennifer",CAN,Women,Moguls,Silver
+2010,Vancouver,Skiing,"McIVOR, Ashleigh",CAN,Women,Ski Cross,Gold
+2010,Vancouver,Skiing,"RICKER, Maelle",CAN,Women,Snowboard Cross,Gold
+2014,Sochi,Bobsleigh,"HUMPHRIES, Kaillie",CAN,Women,Two-Woman,Gold
+2014,Sochi,Bobsleigh,"MOYSE, Heather",CAN,Women,Two-Woman,Gold
+2014,Sochi,Curling,"JONES, Jennifer",CAN,Women,Curling,Gold
+2014,Sochi,Curling,"LAWES, Kaitlyn",CAN,Women,Curling,Gold
+2014,Sochi,Curling,"MCEWEN, Dawn",CAN,Women,Curling,Gold
+2014,Sochi,Curling,"OFFICER, Jill",CAN,Women,Curling,Gold
+2014,Sochi,Curling,"WALL, Kirsten",CAN,Women,Curling,Gold
+2014,Sochi,Ice Hockey,"AGOSTA, Meghan",CAN,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,"APPS, Gillian",CAN,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,"DAOUST, Melodie",CAN,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,"FORTINO, Laura",CAN,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,"HEFFORD, Jayna",CAN,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,"IRWIN, Haley",CAN,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,"JENNER, Brianne",CAN,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,"JOHNSTON, Rebecca",CAN,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,"LABONTE, Charline",CAN,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,"LACASSE, Genevieve",CAN,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,"LAROCQUE, Jocelyne",CAN,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,"MIKKELSON, Meaghan",CAN,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,"OUELLETTE, Caroline",CAN,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,"POULIN, Marie-Philip",CAN,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,"ROUGEAU, Lauriane",CAN,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,"SPOONER, Natalie",CAN,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,"SZABADOS, Shannon",CAN,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,"WAKEFIELD, Jennifer",CAN,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,"WARD, Catherine",CAN,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,"WATCHORN, Tara",CAN,Women,Ice Hockey,Gold
+2014,Sochi,Ice Hockey,"WICKENHEISER, Hayley",CAN,Women,Ice Hockey,Gold
+2014,Sochi,Skating,"VIRTUE, Tessa",CAN,Women,Ice Dancing,Silver
+2014,Sochi,Skating,"DUHAMEL, Meagan",CAN,Women,Team,Silver
+2014,Sochi,Skating,"MOORE-TOWERS, Kirsten",CAN,Women,Team,Silver
+2014,Sochi,Skating,"OSMOND, Kaetlyn",CAN,Women,Team,Silver
+2014,Sochi,Skating,"VIRTUE, Tessa",CAN,Women,Team,Silver
+2014,Sochi,Skating,"DROLET, Marie-Eve",CAN,Women,3000M Relay,Silver
+2014,Sochi,Skating,"HEWITT, Jessica",CAN,Women,3000M Relay,Silver
+2014,Sochi,Skating,"MALTAIS, Valerie",CAN,Women,3000M Relay,Silver
+2014,Sochi,Skating,"ST-GELAIS, Marianne",CAN,Women,3000M Relay,Silver
+2014,Sochi,Skiing,"DUFOUR-LAPOINTE, Chloe",CAN,Women,Moguls,Silver
+2014,Sochi,Skiing,"DUFOUR-LAPOINTE, Justine",CAN,Women,Moguls,Gold
+2014,Sochi,Skiing,"SERWA, Kelsey",CAN,Women,Ski Cross,Silver
+2014,Sochi,Skiing,"THOMPSON, Marielle",CAN,Women,Ski Cross,Gold
+2014,Sochi,Skiing,"HOWELL, Dara",CAN,Women,Ski Slopestyle,Gold
+2014,Sochi,Skiing,"LAMARRE, Kim",CAN,Women,Ski Slopestyle,Bronze
+2014,Sochi,Skiing,"MALTAIS, Dominique",CAN,Women,Snowboard Cross,Silver
+1992,Albertville,Skating,"LI, Yan",CHN,Women,500M,Silver
+1992,Albertville,Skating,"YE, Qiaobo",CHN,Women,1000M,Silver
+1992,Albertville,Skating,"YE, Qiaobo",CHN,Women,500M,Silver
+1994,Lillehammer,Skating,"CHEN, Lu",CHN,Women,Individual,Bronze
+1994,Lillehammer,Skating,"ZHANG, Yanmei",CHN,Women,500M,Silver
+1994,Lillehammer,Skating,"YE, Qiaobo",CHN,Women,1000M,Bronze
+1998,Nagano,Skating,"CHEN, Lu",CHN,Women,Individual,Bronze
+1998,Nagano,Skating,"YANG (S), Yang",CHN,Women,1000M,Silver
+1998,Nagano,Skating,"SUN, Dandan",CHN,Women,3000M Relay,Silver
+1998,Nagano,Skating,"WANG, Chunlu",CHN,Women,3000M Relay,Silver
+1998,Nagano,Skating,"YANG (A), Yang",CHN,Women,3000M Relay,Silver
+1998,Nagano,Skating,"YANG (S), Yang",CHN,Women,3000M Relay,Silver
+1998,Nagano,Skating,"YANG (S), Yang",CHN,Women,500M,Silver
+1998,Nagano,Skiing,"XU, Nannan",CHN,Women,Aerials,Silver
+2002,Salt Lake City,Skating,"SHEN, Xue",CHN,Women,Pairs,Bronze
+2002,Salt Lake City,Skating,"YANG (S), Yang",CHN,Women,1000M,Bronze
+2002,Salt Lake City,Skating,"YANG (A), Yang",CHN,Women,1000M,Gold
+2002,Salt Lake City,Skating,"SUN, Dandan",CHN,Women,3000M Relay,Silver
+2002,Salt Lake City,Skating,"WANG, Chunlu",CHN,Women,3000M Relay,Silver
+2002,Salt Lake City,Skating,"YANG (A), Yang",CHN,Women,3000M Relay,Silver
+2002,Salt Lake City,Skating,"YANG (S), Yang",CHN,Women,3000M Relay,Silver
+2002,Salt Lake City,Skating,"WANG, Chunlu",CHN,Women,500M,Bronze
+2002,Salt Lake City,Skating,"YANG (A), Yang",CHN,Women,500M,Gold
+2006,Turin,Skating,"SHEN, Xue",CHN,Women,Pairs,Bronze
+2006,Turin,Skating,"ZHANG, Dan",CHN,Women,Pairs,Silver
+2006,Turin,Skating,"YANG (A), Yang",CHN,Women,1000M,Bronze
+2006,Turin,Skating,"WANG, Meng",CHN,Women,1000M,Silver
+2006,Turin,Skating,"WANG, Meng",CHN,Women,1500M,Bronze
+2006,Turin,Skating,"WANG, Meng",CHN,Women,500M,Gold
+2006,Turin,Skating,"REN, Hui",CHN,Women,500M,Bronze
+2006,Turin,Skating,"WANG, Manli",CHN,Women,500M,Silver
+2006,Turin,Skiing,"LI, Nina",CHN,Women,Aerials,Silver
+2010,Vancouver,Curling,"LIU, Jinli",CHN,Women,Curling,Bronze
+2010,Vancouver,Curling,"LIU, Yin",CHN,Women,Curling,Bronze
+2010,Vancouver,Curling,"WANG, Bingyu",CHN,Women,Curling,Bronze
+2010,Vancouver,Curling,"YUE, Qingshuang",CHN,Women,Curling,Bronze
+2010,Vancouver,Curling,"ZHOU, Yan",CHN,Women,Curling,Bronze
+2010,Vancouver,Skating,"SHEN, Xue",CHN,Women,Pairs,Gold
+2010,Vancouver,Skating,"PANG, Qing",CHN,Women,Pairs,Silver
+2010,Vancouver,Skating,"WANG, Meng",CHN,Women,1000M,Gold
+2010,Vancouver,Skating,"ZHOU, Yang",CHN,Women,1500M,Gold
+2010,Vancouver,Skating,"SUN, Linlin",CHN,Women,3000M Relay,Gold
+2010,Vancouver,Skating,"WANG, Meng",CHN,Women,3000M Relay,Gold
+2010,Vancouver,Skating,"ZHANG, Hui",CHN,Women,3000M Relay,Gold
+2010,Vancouver,Skating,"ZHOU, Yang",CHN,Women,3000M Relay,Gold
+2010,Vancouver,Skating,"WANG, Meng",CHN,Women,500M,Gold
+2010,Vancouver,Skating,"WANG, Beixing",CHN,Women,500M,Bronze
+2010,Vancouver,Skiing,"GUO, Xinxin",CHN,Women,Aerials,Bronze
+2010,Vancouver,Skiing,"LI, Nina",CHN,Women,Aerials,Silver
+2014,Sochi,Skating,"FAN, Kexin",CHN,Women,1000M,Silver
+2014,Sochi,Skating,"ZHOU, Yang",CHN,Women,1500M,Gold
+2014,Sochi,Skating,"LI, Jianrou",CHN,Women,500M,Gold
+2014,Sochi,Skating,"ZHANG, Hong",CHN,Women,1000M,Gold
+2014,Sochi,Skiing,"XU, Mengtao",CHN,Women,Aerials,Silver
+2002,Salt Lake City,Skiing,"KOSTELIC, Janica",CRO,Women,Alpine Combined,Gold
+2002,Salt Lake City,Skiing,"KOSTELIC, Janica",CRO,Women,Giant Slalom,Gold
+2002,Salt Lake City,Skiing,"KOSTELIC, Janica",CRO,Women,Slalom,Gold
+2002,Salt Lake City,Skiing,"KOSTELIC, Janica",CRO,Women,Super-G,Silver
+2006,Turin,Skiing,"KOSTELIC, Janica",CRO,Women,Alpine Combined,Gold
+2006,Turin,Skiing,"KOSTELIC, Janica",CRO,Women,Super-G,Silver
+1998,Nagano,Skiing,"NEUMANNOVA, Katerina",CZE,Women,5KM,Silver
+1998,Nagano,Skiing,"NEUMANNOVA, Katerina",CZE,Women,Combined 5KM + 10KM Pursuit,Bronze
+2002,Salt Lake City,Skiing,"NEUMANNOVA, Katerina",CZE,Women,15KM Mass Start,Silver
+2002,Salt Lake City,Skiing,"NEUMANNOVA, Katerina",CZE,Women,5Km Pursuit,Silver
+2006,Turin,Skiing,"NEUMANNOVA, Katerina",CZE,Women,30KM,Gold
+2006,Turin,Skiing,"NEUMANNOVA, Katerina",CZE,Women,Combined 7.5 + 7.5Km Mass Start,Silver
+2010,Vancouver,Skating,"SABLIKOVA, Martina",CZE,Women,1500M,Bronze
+2010,Vancouver,Skating,"SABLIKOVA, Martina",CZE,Women,3000M,Gold
+2010,Vancouver,Skating,"SABLIKOVA, Martina",CZE,Women,5000M,Gold
+2010,Vancouver,Skiing,"ZAHROBSKA, Sarka",CZE,Women,Slalom,Bronze
+2014,Sochi,Biathlon,"SOUKALOVA, Gabriela",CZE,Women,12.5KM Mass Start,Silver
+2014,Sochi,Biathlon,"SOUKALOVA, Gabriela",CZE,Women,Relay Mix,Silver
+2014,Sochi,Biathlon,"VITKOVA, Veronika",CZE,Women,Relay Mix,Silver
+2014,Sochi,Skating,"SABLIKOVA, Martina",CZE,Women,3000M,Silver
+2014,Sochi,Skating,"SABLIKOVA, Martina",CZE,Women,5000M,Gold
+2014,Sochi,Skiing,"SAMKOVA, Eva",CZE,Women,Snowboard Cross,Gold
+1998,Nagano,Curling,"BIDSTRUP, Jane",DEN,Women,Curling,Silver
+1998,Nagano,Curling,"HOLM, Dorthe",DEN,Women,Curling,Silver
+1998,Nagano,Curling,"LAVRSEN, Helena Blach",DEN,Women,Curling,Silver
+1998,Nagano,Curling,"POERTNER, Margit",DEN,Women,Curling,Silver
+1998,Nagano,Curling,"QVIST, Trine",DEN,Women,Curling,Silver
+1992,Albertville,Skiing,"FERNANDEZ OCHOA, Blanca",ESP,Women,Slalom,Bronze
+2006,Turin,Skiing,"SMIGUN, Kristina",EST,Women,10KM,Gold
+2006,Turin,Skiing,"SMIGUN, Kristina",EST,Women,Combined 7.5 + 7.5Km Mass Start,Gold
+2010,Vancouver,Skiing,"SMIGUN-VAEHI, Kristina",EST,Women,10KM,Silver
+1956,Cortina d'Ampezzo,Skiing,"REICHERT, Ossi",EUA,Women,Giant Slalom,Gold
+1960,Squaw Valley,Skating,"KILIUS, Marika",EUA,Women,Pairs,Silver
+1960,Squaw Valley,Skating,"HAASE, Helga",EUA,Women,1000M,Silver
+1960,Squaw Valley,Skating,"HAASE, Helga",EUA,Women,500M,Gold
+1960,Squaw Valley,Skiing,"BIEBL, Heidi",EUA,Women,Downhill,Gold
+1960,Squaw Valley,Skiing,"HENNEBERGER, Barbi",EUA,Women,Slalom,Bronze
+1964,Innsbruck,Luge,"ENDERLEIN, Ortrun",EUA,Women,Singles,Gold
+1964,Innsbruck,Luge,"GEISLER, Ilse",EUA,Women,Singles,Silver
+1964,Innsbruck,Skating,"KILIUS, Marika",EUA,Women,Pairs,Silver
+1992,Albertville,Biathlon,"PECHERSKAYA, Svetlana",EUN,Women,15KM,Silver
+1992,Albertville,Biathlon,"BELOVA, Yelena",EUN,Women,4X7.5KM Relay,Bronze
+1992,Albertville,Biathlon,"MELNIKOVA, Elena",EUN,Women,4X7.5KM Relay,Bronze
+1992,Albertville,Biathlon,"REZTSOVA, Anfisa",EUN,Women,4X7.5KM Relay,Bronze
+1992,Albertville,Biathlon,"BELOVA, Yelena",EUN,Women,7.5KM,Bronze
+1992,Albertville,Biathlon,"REZTSOVA, Anfisa",EUN,Women,7.5KM,Gold
+1992,Albertville,Skating,"USOVA, Maya",EUN,Women,Ice Dancing,Bronze
+1992,Albertville,Skating,"KLIMOVA, Marina",EUN,Women,Ice Dancing,Gold
+1992,Albertville,Skating,"MISHKUTYONOK, Natalya",EUN,Women,Pairs,Gold
+1992,Albertville,Skating,"BECHKE, Yelena",EUN,Women,Pairs,Silver
+1992,Albertville,Skating,"ALAGULOVA, Yulia",EUN,Women,3000M Relay,Bronze
+1992,Albertville,Skating,"ISSAKOVA, Natalia",EUN,Women,3000M Relay,Bronze
+1992,Albertville,Skating,"TROITSKAYA, Viktoria",EUN,Women,3000M Relay,Bronze
+1992,Albertville,Skating,"VLASOVA, Yulia",EUN,Women,3000M Relay,Bronze
+1992,Albertville,Skiing,"VAELBE, Elena",EUN,Women,15KM Mass Start,Bronze
+1992,Albertville,Skiing,"EGOROVA, Ljubov",EUN,Women,15KM Mass Start,Gold
+1992,Albertville,Skiing,"VAELBE, Elena",EUN,Women,30KM,Bronze
+1992,Albertville,Skiing,"EGOROVA, Ljubov",EUN,Women,30KM,Silver
+1992,Albertville,Skiing,"EGOROVA, Ljubov",EUN,Women,4X5KM Relay,Gold
+1992,Albertville,Skiing,"LAZUTINA, Larissa",EUN,Women,4X5KM Relay,Gold
+1992,Albertville,Skiing,"SMETANINA, Raisa",EUN,Women,4X5KM Relay,Gold
+1992,Albertville,Skiing,"VAELBE, Elena",EUN,Women,4X5KM Relay,Gold
+1992,Albertville,Skiing,"VAELBE, Elena",EUN,Women,5KM,Bronze
+1992,Albertville,Skiing,"EGOROVA, Ljubov",EUN,Women,5KM,Silver
+1992,Albertville,Skiing,"VAELBE, Elena",EUN,Women,Combined 5KM + 10KM Pursuit,Bronze
+1992,Albertville,Skiing,"EGOROVA, Ljubov",EUN,Women,Combined 5KM + 10KM Pursuit,Gold
+1992,Albertville,Skiing,"KOZHEVNIKOVA, Yelizaveta",EUN,Women,Moguls,Silver
+1924,Chamonix,Skating,"JAKOBSSON, Ludowika",FIN,Women,Pairs,Silver
+1952,Oslo,Skiing,"RANTANEN, Siiri",FIN,Women,10KM,Bronze
+1952,Oslo,Skiing,"WIDEMAN, Lydia",FIN,Women,10KM,Gold
+1952,Oslo,Skiing,"HIETAMIES, Mirja",FIN,Women,10KM,Silver
+1956,Cortina d'Ampezzo,Skiing,"HIETAMIES, Mirja",FIN,Women,3X5KM Relay,Gold
+1956,Cortina d'Ampezzo,Skiing,"POLKUNEN, Sirkka",FIN,Women,3X5KM Relay,Gold
+1956,Cortina d'Ampezzo,Skiing,"RANTANEN, Siiri",FIN,Women,3X5KM Relay,Gold
+1960,Squaw Valley,Skating,"HUTTUNEN, Eevi",FIN,Women,3000M,Bronze
+1960,Squaw Valley,Skiing,"P胆YSTI, Toini K.",FIN,Women,3X5KM Relay,Bronze
+1960,Squaw Valley,Skiing,"RANTANEN, Siiri",FIN,Women,3X5KM Relay,Bronze
+1960,Squaw Valley,Skiing,"RUOPPA, Eeva",FIN,Women,3X5KM Relay,Bronze
+1964,Innsbruck,Skating,"MUSTONEN, Kaija",FIN,Women,1000M,Bronze
+1964,Innsbruck,Skating,"MUSTONEN, Kaija",FIN,Women,1500M,Silver
+1964,Innsbruck,Skiing,"LEHTONEN, Mirja",FIN,Women,3X5KM Relay,Bronze
+1964,Innsbruck,Skiing,"P胆YSTI, Toini K.",FIN,Women,3X5KM Relay,Bronze
+1964,Innsbruck,Skiing,"PUSULA, Senja",FIN,Women,3X5KM Relay,Bronze
+1964,Innsbruck,Skiing,"LEHTONEN, Mirja",FIN,Women,5KM,Silver
+1968,Grenoble,Skating,"MUSTONEN, Kaija",FIN,Women,1500M,Gold
+1968,Grenoble,Skating,"MUSTONEN, Kaija",FIN,Women,3000M,Silver
+1972,Sapporo,Skiing,"KAJOSMAA, Marjatta",FIN,Women,10KM,Bronze
+1972,Sapporo,Skiing,"KAJOSMAA, Marjatta",FIN,Women,3X5KM Relay,Silver
+1972,Sapporo,Skiing,"RIIHIVUORI, Hilkka",FIN,Women,3X5KM Relay,Silver
+1972,Sapporo,Skiing,"TAKALO, Helena",FIN,Women,3X5KM Relay,Silver
+1972,Sapporo,Skiing,"KAJOSMAA, Marjatta",FIN,Women,5KM,Silver
+1976,Innsbruck,Skiing,"TAKALO, Helena",FIN,Women,10KM,Silver
+1976,Innsbruck,Skiing,"KAJOSMAA, Marjatta",FIN,Women,4X5KM Relay,Silver
+1976,Innsbruck,Skiing,"RIIHIVUORI, Hilkka",FIN,Women,4X5KM Relay,Silver
+1976,Innsbruck,Skiing,"SUIKHONEN, Liisa",FIN,Women,4X5KM Relay,Silver
+1976,Innsbruck,Skiing,"TAKALO, Helena",FIN,Women,4X5KM Relay,Silver
+1976,Innsbruck,Skiing,"TAKALO, Helena",FIN,Women,5KM,Gold
+1980,Lake Placid,Skiing,"TAKALO, Helena",FIN,Women,10KM,Bronze
+1980,Lake Placid,Skiing,"RIIHIVUORI, Hilkka",FIN,Women,10KM,Silver
+1980,Lake Placid,Skiing,"RIIHIVUORI, Hilkka",FIN,Women,5KM,Silver
+1984,Sarajevo,Skiing,"KIRVESNIEMI, Marja-Liisa",FIN,Women,10KM,Gold
+1984,Sarajevo,Skiing,"KIRVESNIEMI, Marja-Liisa",FIN,Women,20KM,Gold
+1984,Sarajevo,Skiing,"HYYTIAINEN, Eija",FIN,Women,4X5KM Relay,Bronze
+1984,Sarajevo,Skiing,"KIRVESNIEMI, Marja-Liisa",FIN,Women,4X5KM Relay,Bronze
+1984,Sarajevo,Skiing,"M爪爪TT爪, Pirkko",FIN,Women,4X5KM Relay,Bronze
+1984,Sarajevo,Skiing,"MATIKAINEN, Marjo",FIN,Women,4X5KM Relay,Bronze
+1984,Sarajevo,Skiing,"KIRVESNIEMI, Marja-Liisa",FIN,Women,5KM,Gold
+1988,Calgary,Skiing,"MATIKAINEN, Marjo",FIN,Women,10KM,Bronze
+1988,Calgary,Skiing,"KIRVESNIEMI, Marja-Liisa",FIN,Women,4X5KM Relay,Bronze
+1988,Calgary,Skiing,"M爪爪TT爪, Pirkko",FIN,Women,4X5KM Relay,Bronze
+1988,Calgary,Skiing,"MATIKAINEN, Marjo",FIN,Women,4X5KM Relay,Bronze
+1988,Calgary,Skiing,"SAVOLAINEN, Jaana",FIN,Women,4X5KM Relay,Bronze
+1988,Calgary,Skiing,"MATIKAINEN, Marjo",FIN,Women,5KM,Gold
+1992,Albertville,Skiing,"ROLIG, Marjut",FIN,Women,15KM Mass Start,Silver
+1992,Albertville,Skiing,"ROLIG, Marjut",FIN,Women,5KM,Gold
+1994,Lillehammer,Skiing,"KIRVESNIEMI, Marja-Liisa",FIN,Women,30KM,Bronze
+1994,Lillehammer,Skiing,"KIRVESNIEMI, Marja-Liisa",FIN,Women,5KM,Bronze
+1998,Nagano,Ice Hockey,"FISK, Sari",FIN,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,"HANNINEN, Kirsi",FIN,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,"HUOTARI, Satu",FIN,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,"IHALAINEN, Marianne",FIN,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,"IKONEN, Johanna",FIN,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,"KROOKS, Sari",FIN,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,"LAAKSONEN, Emma",FIN,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,"LANKOSAARI, Sanna",FIN,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,"LEHTD, Katja",FIN,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,"LEHTIMAKI, Marika",FIN,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,"NIEMINEN, Riikka",FIN,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,"PALVILA, Marja-Helena",FIN,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,"PUPUTTI, Tuula",FIN,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,"RANTAMAKI, Karoliina",FIN,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,"REIMA, Tiia",FIN,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,"RIIPI, Katja",FIN,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,"SALO, Paivi",FIN,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,"SELIN, Maria",FIN,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,"SNECK, Liisa-Maria",FIN,Women,Ice Hockey,Bronze
+1998,Nagano,Ice Hockey,"VAARAKALLIO, Petra",FIN,Women,Ice Hockey,Bronze
+2006,Turin,Skiing,"POUTIAINEN, Tanja",FIN,Women,Giant Slalom,Silver
+2006,Turin,Skiing,"KUITUNEN, Virpi",FIN,Women,Team Sprint,Bronze
+2006,Turin,Skiing,"SAARINEN, Aino Kaisa",FIN,Women,Team Sprint,Bronze
+2010,Vancouver,Ice Hockey,"HELIN, Anne",FIN,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,"HIIRIKOSKI, Jenni",FIN,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,"HOVI, Venla",FIN,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,"KARVINEN, Michelle",FIN,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,"KUISMA, Mira",FIN,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,"LAAKSONEN, Emma",FIN,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,"LINDSTEDT, Rosa",FIN,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,"MERTANEN, Terhi",FIN,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,"PELTTARI, Heidi",FIN,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,"POSA, Mariia",FIN,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,"RAJAHUHTA, Annina",FIN,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,"RANTAMAKI, Karoliina",FIN,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,"RATY, Noora",FIN,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,"SAARINEN, Mari",FIN,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,"SIRVIO, Saija",FIN,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,"TIKKINEN, Nina",FIN,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,"TUOMINEN, Minnamari",FIN,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,"TUOMINEN, Saara",FIN,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,"VALIMAKI, Linda",FIN,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,"VANHATALO, Anna",FIN,Women,Ice Hockey,Bronze
+2010,Vancouver,Ice Hockey,"VOUTILAINEN, Marjo",FIN,Women,Ice Hockey,Bronze
+2010,Vancouver,Skiing,"SAARINEN, Aino-Kaisa",FIN,Women,30KM,Bronze
+2010,Vancouver,Skiing,"KUITUNEN, Virpi",FIN,Women,4X5KM Relay,Bronze
+2010,Vancouver,Skiing,"MURANEN, Pirjo",FIN,Women,4X5KM Relay,Bronze
+2010,Vancouver,Skiing,"ROPONEN, Riitta-Liisa",FIN,Women,4X5KM Relay,Bronze
+2010,Vancouver,Skiing,"SAARINEN, Aino-Kaisa",FIN,Women,4X5KM Relay,Bronze
+2014,Sochi,Skiing,"KYLLOENEN, Anne",FIN,Women,4X5KM Relay,Silver
+2014,Sochi,Skiing,"LAHTEENMAKI, Krista",FIN,Women,4X5KM Relay,Silver
+2014,Sochi,Skiing,"NISKANEN, Kerttu",FIN,Women,4X5KM Relay,Silver
+2014,Sochi,Skiing,"SAARINEN, Aino-Kaisa",FIN,Women,4X5KM Relay,Silver
+2014,Sochi,Skiing,"NISKANEN, Kerttu",FIN,Women,Team Sprint,Silver
+2014,Sochi,Skiing,"SAARINEN, Aino-Kaisa",FIN,Women,Team Sprint,Silver
+2014,Sochi,Skiing,"RUKAJARVI, Enni",FIN,Women,Slopestyle,Silver
+1924,Chamonix,Skating,"BRUNET, Andr朝e",FRA,Women,Pairs,Bronze
+1928,St.Moritz,Skating,"BRUNET, Andr朝e",FRA,Women,Pairs,Gold
+1932,Lake Placid,Skating,"BRUNET, Andr朝e",FRA,Women,Pairs,Gold
+1952,Oslo,Skating,"DU BIEF, Jacqueline",FRA,Women,Individual,Bronze
+1964,Innsbruck,Skiing,"GOITSCHEL, Marielle",FRA,Women,Giant Slalom,Gold
+1964,Innsbruck,Skiing,"GOITSCHEL, Christine",FRA,Women,Giant Slalom,Silver
+1964,Innsbruck,Skiing,"GOITSCHEL, Christine",FRA,Women,Slalom,Gold
+1964,Innsbruck,Skiing,"GOITSCHEL, Marielle",FRA,Women,Slalom,Silver
+1968,Grenoble,Skiing,"MIR, Isabelle",FRA,Women,Downhill,Silver
+1968,Grenoble,Skiing,"FAMOSE, Annie",FRA,Women,Giant Slalom,Silver
+1968,Grenoble,Skiing,"FAMOSE, Annie",FRA,Women,Slalom,Bronze
+1968,Grenoble,Skiing,"GOITSCHEL, Marielle",FRA,Women,Slalom,Gold
+1972,Sapporo,Skiing,"STEURER, Florence",FRA,Women,Slalom,Bronze
+1972,Sapporo,Skiing,"DEBERNARD, Dani貞le",FRA,Women,Slalom,Silver
+1976,Innsbruck,Skiing,"DEBERNARD, Dani貞le",FRA,Women,Giant Slalom,Bronze
+1980,Lake Placid,Skiing,"PELEN, Perrine",FRA,Women,Giant Slalom,Bronze
+1984,Sarajevo,Skiing,"PELEN, Perrine",FRA,Women,Giant Slalom,Bronze
+1984,Sarajevo,Skiing,"PELEN, Perrine",FRA,Women,Slalom,Silver
+1992,Albertville,Biathlon,"BRIAND BOUTHIAUX, Anne",FRA,Women,4X7.5KM Relay,Gold
+1992,Albertville,Biathlon,"CLAUDEL, V朝ronique",FRA,Women,4X7.5KM Relay,Gold
+1992,Albertville,Biathlon,"NIOGRET, Corinne",FRA,Women,4X7.5KM Relay,Gold
+1992,Albertville,Skating,"DUCHESNAY-DEAN, Isabelle",FRA,Women,Ice Dancing,Silver
+1992,Albertville,Skiing,"MASNADA, Florence",FRA,Women,Alpine Combined,Bronze
+1992,Albertville,Skiing,"MERLE, Carole",FRA,Women,Super-G,Silver
+1994,Lillehammer,Biathlon,"BRIAND BOUTHIAUX, Anne",FRA,Women,15KM,Silver
+1994,Lillehammer,Biathlon,"BRIAND BOUTHIAUX, Anne",FRA,Women,4X7.5KM Relay,Bronze
+1994,Lillehammer,Biathlon,"BURLET, Delphyne",FRA,Women,4X7.5KM Relay,Bronze
+1994,Lillehammer,Biathlon,"CLAUDEL, V朝ronique",FRA,Women,4X7.5KM Relay,Bronze
+1994,Lillehammer,Biathlon,"NIOGRET, Corinne",FRA,Women,4X7.5KM Relay,Bronze
+1998,Nagano,Skating,"ANISSINA, Marina",FRA,Women,Ice Dancing,Bronze
+1998,Nagano,Skiing,"MASNADA, Florence",FRA,Women,Downhill,Bronze
+1998,Nagano,Skiing,"RUBY, Karine",FRA,Women,Giant-Slalom,Gold
+2002,Salt Lake City,Skating,"ANISSINA, Marina",FRA,Women,Ice Dancing,Gold
+2002,Salt Lake City,Skiing,"MONTILLET-CARLES, Carole",FRA,Women,Downhill,Gold
+2002,Salt Lake City,Skiing,"PEQUEGNOT, Laure",FRA,Women,Slalom,Silver
+2002,Salt Lake City,Skiing,"BLANC, Isabelle",FRA,Women,Giant Parallel Slalom,Gold
+2002,Salt Lake City,Skiing,"RUBY, Karine",FRA,Women,Giant Parallel Slalom,Silver
+2002,Salt Lake City,Skiing,"VIDAL, Doriane",FRA,Women,Half-Pipe,Silver
+2006,Turin,Biathlon,"BAILLY, Sandrine",FRA,Women,4X6KM Relay,Bronze
+2006,Turin,Biathlon,"BAVEREL-ROBERT, Florence",FRA,Women,4X6KM Relay,Bronze
+2006,Turin,Biathlon,"BECAERT, Sylvie",FRA,Women,4X6KM Relay,Bronze
+2006,Turin,Biathlon,"PERETTO, Delphyne",FRA,Women,4X6KM Relay,Bronze
+2006,Turin,Biathlon,"BAVEREL-ROBERT, Florence",FRA,Women,7.5KM,Gold
+2006,Turin,Skiing,"LAOURA, Sandra",FRA,Women,Moguls,Bronze
+2010,Vancouver,Biathlon,"BRUNET, Marie Laure",FRA,Women,10KM Pursuit,Bronze
+2010,Vancouver,Biathlon,"BAILLY, Sandrine",FRA,Women,4X6KM Relay,Silver
+2010,Vancouver,Biathlon,"BECAERT, Sylvie",FRA,Women,4X6KM Relay,Silver
+2010,Vancouver,Biathlon,"BRUNET, Marie Laure",FRA,Women,4X6KM Relay,Silver
+2010,Vancouver,Biathlon,"DORIN, Marie",FRA,Women,4X6KM Relay,Silver
+2010,Vancouver,Biathlon,"DORIN, Marie",FRA,Women,7.5KM,Bronze
+2010,Vancouver,Skiing,"JOSSERAND, Marion",FRA,Women,Ski Cross,Bronze
+2010,Vancouver,Skiing,"ANTHONIOZ, Deborah",FRA,Women,Snowboard Cross,Silver
+2014,Sochi,Skiing,"MARTINOD, Marie",FRA,Women,Ski Halfpipe,Silver
+2014,Sochi,Skiing,"MATTEL, Coline",FRA,Women,K90 Individual,Bronze
+2014,Sochi,Skiing,"TRESPEUCH, Chloe",FRA,Women,Snowboard Cross,Bronze
+1952,Oslo,Skating,"FALK, Ria",FRG,Women,Pairs,Gold
+1952,Oslo,Skiing,"BUCHNER, Mirl",FRG,Women,Downhill,Silver
+1952,Oslo,Skiing,"BUCHNER, Mirl",FRG,Women,Giant Slalom,Bronze
+1952,Oslo,Skiing,"BUCHNER, Mirl",FRG,Women,Slalom,Bronze
+1952,Oslo,Skiing,"REICHERT, Ossi",FRG,Women,Slalom,Silver
+1968,Grenoble,Luge,"D駐NHAUPT, Angelika",FRG,Women,Singles,Bronze
+1968,Grenoble,Luge,"SCHMUCK, Christa",FRG,Women,Singles,Silver
+1968,Grenoble,Skating,"GLOCKSHUBER, Margot",FRG,Women,Pairs,Bronze
+1972,Sapporo,Skating,"HOLZNER-GAWENUS, Monika",FRG,Women,1000M,Gold
+1976,Innsbruck,Luge,"DEMLEITNER, Elisabeth",FRG,Women,Singles,Bronze
+1976,Innsbruck,Skiing,"MITTERMAIER, Rosi",FRG,Women,Downhill,Gold
+1976,Innsbruck,Skiing,"MITTERMAIER, Rosi",FRG,Women,Giant Slalom,Silver
+1976,Innsbruck,Skiing,"MITTERMAIER, Rosi",FRG,Women,Slalom,Gold
+1980,Lake Placid,Skating,"LURZ, Dagmar",FRG,Women,Individual,Bronze
+1980,Lake Placid,Skiing,"EPPLE, Irene",FRG,Women,Giant Slalom,Silver
+1980,Lake Placid,Skiing,"KINSHOFER GUETHLEIN, Christa",FRG,Women,Slalom,Silver
+1988,Calgary,Skiing,"KIEHL, Marina",FRG,Women,Downhill,Gold
+1988,Calgary,Skiing,"KINSHOFER GUETHLEIN, Christa",FRG,Women,Giant Slalom,Silver
+1988,Calgary,Skiing,"KINSHOFER GUETHLEIN, Christa",FRG,Women,Slalom,Bronze
+1924,Chamonix,Skating,"MUCKELT, Ethel",GBR,Women,Individual,Bronze
+1936,Garmisch Partenkirchen,Skating,"COLLEDGE, Cecilia",GBR,Women,Individual,Silver
+1948,St.Moritz,Skating,"ALTWEGG, Jeannette",GBR,Women,Individual,Bronze
+1952,Oslo,Skating,"ALTWEGG, Jeannette",GBR,Women,Individual,Gold
+1984,Sarajevo,Skating,"TORVILL, Jayne",GBR,Women,Ice Dancing,Gold
+1994,Lillehammer,Skating,"TORVILL, Jayne",GBR,Women,Ice Dancing,Bronze
+2002,Salt Lake City,Bobsleigh,"COOMBER, Alex",GBR,Women,Individual,Bronze
+2002,Salt Lake City,Curling,"KNOX, Debbie",GBR,Women,Curling,Gold
+2002,Salt Lake City,Curling,"MACDONALD, Fiona",GBR,Women,Curling,Gold
+2002,Salt Lake City,Curling,"MARTIN, Rhona",GBR,Women,Curling,Gold
+2002,Salt Lake City,Curling,"MORTON, Margaret",GBR,Women,Curling,Gold
+2002,Salt Lake City,Curling,"RANKIN, Janice",GBR,Women,Curling,Gold
+2006,Turin,Bobsleigh,"RUDMAN, Shelley",GBR,Women,Individual,Silver
+2010,Vancouver,Bobsleigh,"WILLIAMS, Amy",GBR,Women,Individual,Gold
+2014,Sochi,Bobsleigh,"YARNOLD, Elizabeth",GBR,Women,Individual,Gold
+2014,Sochi,Curling,"ADAMS, Vicki",GBR,Women,Curling,Bronze
+2014,Sochi,Curling,"GRAY, Lauren",GBR,Women,Curling,Bronze
+2014,Sochi,Curling,"HAMILTON, Claire",GBR,Women,Curling,Bronze
+2014,Sochi,Curling,"MUIRHEAD, Eve",GBR,Women,Curling,Bronze
+2014,Sochi,Curling,"SLOAN, Anna",GBR,Women,Curling,Bronze
+2014,Sochi,Skiing,"JONES, Jenny",GBR,Women,Slopestyle,Bronze
+1968,Grenoble,Skating,"SEYFERT, Gabriele",GDR,Women,Individual,Silver
+1972,Sapporo,Luge,"SCHUMANN, Margit",GDR,Women,Singles,Bronze
+1972,Sapporo,Luge,"M駐LLER, Anna-Maria",GDR,Women,Singles,Gold
+1972,Sapporo,Luge,"R駐HROLD, Ute",GDR,Women,Singles,Silver
+1972,Sapporo,Skating,"GROSS, Manuela",GDR,Women,Pairs,Bronze
+1976,Innsbruck,Luge,"SCHUMANN, Margit",GDR,Women,Singles,Gold
+1976,Innsbruck,Luge,"R駐HROLD, Ute",GDR,Women,Singles,Silver
+1976,Innsbruck,Skating,"ERRATH, Christine",GDR,Women,Individual,Bronze
+1976,Innsbruck,Skating,"GROSS, Manuela",GDR,Women,Pairs,Bronze
+1976,Innsbruck,Skating,"KERMER, Romy",GDR,Women,Pairs,Silver
+1976,Innsbruck,Skating,"EHRIG, Andrea",GDR,Women,3000M,Silver
+1976,Innsbruck,Skiing,"DEBERTSH爪USER, Monika",GDR,Women,4X5KM Relay,Bronze
+1976,Innsbruck,Skiing,"KRAUSE, Sigrun",GDR,Women,4X5KM Relay,Bronze
+1976,Innsbruck,Skiing,"PETZOLD, Barbara",GDR,Women,4X5KM Relay,Bronze
+1976,Innsbruck,Skiing,"SCHMIDT, Veronika",GDR,Women,4X5KM Relay,Bronze
+1980,Lake Placid,Luge,"SOLLMANN, Melitta",GDR,Women,Singles,Silver
+1980,Lake Placid,Skating,"P胆TZSCH, Anett",GDR,Women,Individual,Gold
+1980,Lake Placid,Skating,"MAGER, Manuela",GDR,Women,Pairs,Bronze
+1980,Lake Placid,Skating,"ALBRECHT, Silvia",GDR,Women,1000M,Bronze
+1980,Lake Placid,Skating,"BECKER, Sabine",GDR,Women,1500M,Bronze
+1980,Lake Placid,Skating,"BECKER, Sabine",GDR,Women,3000M,Silver
+1980,Lake Placid,Skating,"KANIA, Karin",GDR,Women,500M,Gold
+1980,Lake Placid,Skiing,"PETZOLD, Barbara",GDR,Women,10KM,Gold
+1980,Lake Placid,Skiing,"ANDING, Carola",GDR,Women,4X5KM Relay,Gold
+1980,Lake Placid,Skiing,"PETZOLD, Barbara",GDR,Women,4X5KM Relay,Gold
+1980,Lake Placid,Skiing,"ROSTOCK, Marlies",GDR,Women,4X5KM Relay,Gold
+1980,Lake Placid,Skiing,"SCHMIDT, Veronika",GDR,Women,4X5KM Relay,Gold
+1984,Sarajevo,Luge,"OBERHOFFNER, Ute",GDR,Women,Singles,Bronze
+1984,Sarajevo,Luge,"WALTER, Steffi",GDR,Women,Singles,Gold
+1984,Sarajevo,Luge,"SCHMIDT, Bettina",GDR,Women,Singles,Silver
+1984,Sarajevo,Skating,"WITT, Katarina",GDR,Women,Individual,Gold
+1984,Sarajevo,Skating,"KANIA, Karin",GDR,Women,1000M,Gold
+1984,Sarajevo,Skating,"EHRIG, Andrea",GDR,Women,1000M,Silver
+1984,Sarajevo,Skating,"KANIA, Karin",GDR,Women,1500M,Gold
+1984,Sarajevo,Skating,"EHRIG, Andrea",GDR,Women,1500M,Silver
+1984,Sarajevo,Skating,"ZANGE, Gabi",GDR,Women,3000M,Bronze
+1984,Sarajevo,Skating,"EHRIG, Andrea",GDR,Women,3000M,Gold
+1984,Sarajevo,Skating,"KANIA, Karin",GDR,Women,3000M,Silver
+1984,Sarajevo,Skating,"LUDING, Christa",GDR,Women,500M,Gold
+1984,Sarajevo,Skating,"KANIA, Karin",GDR,Women,500M,Silver
+1988,Calgary,Luge,"SCHMIDT, Cerstin",GDR,Women,Singles,Bronze
+1988,Calgary,Luge,"WALTER, Steffi",GDR,Women,Singles,Gold
+1988,Calgary,Luge,"OBERHOFFNER, Ute",GDR,Women,Singles,Silver
+1988,Calgary,Skating,"WITT, Katarina",GDR,Women,Individual,Gold
+1988,Calgary,Skating,"LUDING, Christa",GDR,Women,1000M,Gold
+1988,Calgary,Skating,"KANIA, Karin",GDR,Women,1000M,Silver
+1988,Calgary,Skating,"EHRIG, Andrea",GDR,Women,1500M,Bronze
+1988,Calgary,Skating,"KANIA, Karin",GDR,Women,1500M,Silver
+1988,Calgary,Skating,"ZANGE, Gabi",GDR,Women,3000M,Bronze
+1988,Calgary,Skating,"EHRIG, Andrea",GDR,Women,3000M,Silver
+1988,Calgary,Skating,"ZANGE, Gabi",GDR,Women,5000M,Bronze
+1988,Calgary,Skating,"EHRIG, Andrea",GDR,Women,5000M,Silver
+1988,Calgary,Skating,"KANIA, Karin",GDR,Women,500M,Bronze
+1988,Calgary,Skating,"LUDING, Christa",GDR,Women,500M,Silver
+1936,Garmisch Partenkirchen,Skating,"HERBER, Maxi",GER,Women,Pairs,Gold
+1936,Garmisch Partenkirchen,Skiing,"CRANZ, Christel",GER,Women,Alpine Combined,Gold
+1936,Garmisch Partenkirchen,Skiing,"GRASEGGER, K胆the",GER,Women,Alpine Combined,Silver
+1992,Albertville,Biathlon,"HARVEY, Antje",GER,Women,15KM,Gold
+1992,Albertville,Biathlon,"DISL, Uschi",GER,Women,4X7.5KM Relay,Silver
+1992,Albertville,Biathlon,"HARVEY, Antje",GER,Women,4X7.5KM Relay,Silver
+1992,Albertville,Biathlon,"SCHAAF, Petra",GER,Women,4X7.5KM Relay,Silver
+1992,Albertville,Biathlon,"HARVEY, Antje",GER,Women,7.5KM,Silver
+1992,Albertville,Luge,"ERDMANN, Susi-Lisa",GER,Women,Singles,Bronze
+1992,Albertville,Skating,"GARBRECHT-ENFELDT, Monique",GER,Women,1000M,Bronze
+1992,Albertville,Skating,"B胆RNER, Jacqueline",GER,Women,1500M,Gold
+1992,Albertville,Skating,"NIEMANN-STIRNEMANN, Gunda",GER,Women,1500M,Silver
+1992,Albertville,Skating,"NIEMANN-STIRNEMANN, Gunda",GER,Women,3000M,Gold
+1992,Albertville,Skating,"WARNICKE, Heike",GER,Women,3000M,Silver
+1992,Albertville,Skating,"PECHSTEIN, Claudia",GER,Women,5000M,Bronze
+1992,Albertville,Skating,"NIEMANN-STIRNEMANN, Gunda",GER,Women,5000M,Gold
+1992,Albertville,Skating,"WARNICKE, Heike",GER,Women,5000M,Silver
+1992,Albertville,Skating,"LUDING, Christa",GER,Women,500M,Bronze
+1992,Albertville,Skiing,"SEIZINGER, Katja",GER,Women,Super-G,Bronze
+1994,Lillehammer,Biathlon,"DISL, Uschi",GER,Women,15KM,Bronze
+1994,Lillehammer,Biathlon,"DISL, Uschi",GER,Women,4X7.5KM Relay,Silver
+1994,Lillehammer,Biathlon,"GREINER-PETTER-MEMM, Simone",GER,Women,4X7.5KM Relay,Silver
+1994,Lillehammer,Biathlon,"HARVEY, Antje",GER,Women,4X7.5KM Relay,Silver
+1994,Lillehammer,Biathlon,"SCHAAF, Petra",GER,Women,4X7.5KM Relay,Silver
+1994,Lillehammer,Luge,"ERDMANN, Susi-Lisa",GER,Women,Singles,Silver
+1994,Lillehammer,Skating,"BAIER-LOEF, Anke",GER,Women,1000M,Silver
+1994,Lillehammer,Skating,"NIEMANN-STIRNEMANN, Gunda",GER,Women,1500M,Bronze
+1994,Lillehammer,Skating,"PECHSTEIN, Claudia",GER,Women,3000M,Bronze
+1994,Lillehammer,Skating,"PECHSTEIN, Claudia",GER,Women,5000M,Gold
+1994,Lillehammer,Skating,"NIEMANN-STIRNEMANN, Gunda",GER,Women,5000M,Silver
+1994,Lillehammer,Skating,"SCHENK, Franziska",GER,Women,500M,Bronze
+1994,Lillehammer,Skiing,"SEIZINGER, Katja",GER,Women,Downhill,Gold
+1994,Lillehammer,Skiing,"ERTL, Martina",GER,Women,Giant Slalom,Silver
+1998,Nagano,Biathlon,"DISL, Uschi",GER,Women,15KM,Bronze
+1998,Nagano,Biathlon,"APEL, Katrin",GER,Women,4X7.5KM Relay,Gold
+1998,Nagano,Biathlon,"BEHLE-SCHAAF, Petra",GER,Women,4X7.5KM Relay,Gold
+1998,Nagano,Biathlon,"DISL, Uschi",GER,Women,4X7.5KM Relay,Gold
+1998,Nagano,Biathlon,"ZELLNER, Martina",GER,Women,4X7.5KM Relay,Gold
+1998,Nagano,Biathlon,"APEL, Katrin",GER,Women,7.5KM,Bronze
+1998,Nagano,Biathlon,"DISL, Uschi",GER,Women,7.5KM,Silver
+1998,Nagano,Luge,"KRAUSHAAR, Silke",GER,Women,Singles,Gold
+1998,Nagano,Luge,"NIEDERNHUBER, Barbara",GER,Women,Singles,Silver
+1998,Nagano,Skating,"WOTZEL, Mandy",GER,Women,Pairs,Bronze
+1998,Nagano,Skating,"NIEMANN-STIRNEMANN, Gunda",GER,Women,1500M,Silver
+1998,Nagano,Skating,"FRIESINGER-POSTMA, Anna",GER,Women,3000M,Bronze
+1998,Nagano,Skating,"NIEMANN-STIRNEMANN, Gunda",GER,Women,3000M,Gold
+1998,Nagano,Skating,"PECHSTEIN, Claudia",GER,Women,3000M,Silver
+1998,Nagano,Skating,"PECHSTEIN, Claudia",GER,Women,5000M,Gold
+1998,Nagano,Skating,"NIEMANN-STIRNEMANN, Gunda",GER,Women,5000M,Silver
+1998,Nagano,Skiing,"GERG, Hilde",GER,Women,Alpine Combined,Bronze
+1998,Nagano,Skiing,"SEIZINGER, Katja",GER,Women,Alpine Combined,Gold
+1998,Nagano,Skiing,"ERTL, Martina",GER,Women,Alpine Combined,Silver
+1998,Nagano,Skiing,"SEIZINGER, Katja",GER,Women,Downhill,Gold
+1998,Nagano,Skiing,"SEIZINGER, Katja",GER,Women,Giant Slalom,Bronze
+1998,Nagano,Skiing,"GERG, Hilde",GER,Women,Slalom,Gold
+1998,Nagano,Skiing,"MITTERMAYER, Tatjana",GER,Women,Moguls,Silver
+1998,Nagano,Skiing,"RENOTH, Heidi Maria",GER,Women,Giant-Slalom,Silver
+1998,Nagano,Skiing,"THOST, Nicola",GER,Women,Half-Pipe,Gold
+2002,Salt Lake City,Biathlon,"WILHELM, Kati",GER,Women,10KM Pursuit,Silver
+2002,Salt Lake City,Biathlon,"HENKEL, Andrea",GER,Women,15KM,Gold
+2002,Salt Lake City,Biathlon,"APEL, Katrin",GER,Women,4X7.5KM Relay,Gold
+2002,Salt Lake City,Biathlon,"DISL, Uschi",GER,Women,4X7.5KM Relay,Gold
+2002,Salt Lake City,Biathlon,"HENKEL, Andrea",GER,Women,4X7.5KM Relay,Gold
+2002,Salt Lake City,Biathlon,"WILHELM, Kati",GER,Women,4X7.5KM Relay,Gold
+2002,Salt Lake City,Biathlon,"WILHELM, Kati",GER,Women,7.5KM,Gold
+2002,Salt Lake City,Biathlon,"DISL, Uschi",GER,Women,7.5KM,Silver
+2002,Salt Lake City,Bobsleigh,"ERDMANN, Susi-Lisa",GER,Women,Two-Man,Bronze
+2002,Salt Lake City,Bobsleigh,"HERSCHMANN, Nicole",GER,Women,Two-Man,Bronze
+2002,Salt Lake City,Bobsleigh,"HOLZNER, Ulrike",GER,Women,Two-Man,Silver
+2002,Salt Lake City,Bobsleigh,"KIRIASIS, Sandra",GER,Women,Two-Man,Silver
+2002,Salt Lake City,Luge,"KRAUSHAAR, Silke",GER,Women,Singles,Bronze
+2002,Salt Lake City,Luge,"OTTO, Sylke",GER,Women,Singles,Gold
+2002,Salt Lake City,Luge,"NIEDERNHUBER, Barbara",GER,Women,Singles,Silver
+2002,Salt Lake City,Skating,"VOELKER, Sabine",GER,Women,1000M,Silver
+2002,Salt Lake City,Skating,"FRIESINGER-POSTMA, Anna",GER,Women,1500M,Gold
+2002,Salt Lake City,Skating,"VOELKER, Sabine",GER,Women,1500M,Silver
+2002,Salt Lake City,Skating,"PECHSTEIN, Claudia",GER,Women,3000M,Gold
+2002,Salt Lake City,Skating,"PECHSTEIN, Claudia",GER,Women,5000M,Gold
+2002,Salt Lake City,Skating,"VOELKER, Sabine",GER,Women,500M,Bronze
+2002,Salt Lake City,Skating,"GARBRECHT-ENFELDT, Monique",GER,Women,500M,Silver
+2002,Salt Lake City,Skiing,"ERTL, Martina",GER,Women,Alpine Combined,Bronze
+2002,Salt Lake City,Skiing,"BAUER, Viola",GER,Women,4X5KM Relay,Gold
+2002,Salt Lake City,Skiing,"HENKEL, Manuela",GER,Women,4X5KM Relay,Gold
+2002,Salt Lake City,Skiing,"KUENZEL, Claudia",GER,Women,4X5KM Relay,Gold
+2002,Salt Lake City,Skiing,"SACHENBACHER, Evi",GER,Women,4X5KM Relay,Gold
+2002,Salt Lake City,Skiing,"BAUER, Viola",GER,Women,5Km Pursuit,Bronze
+2002,Salt Lake City,Skiing,"SACHENBACHER, Evi",GER,Women,Sprint 1.5KM,Silver
+2006,Turin,Biathlon,"WILHELM, Kati",GER,Women,10KM Pursuit,Gold
+2006,Turin,Biathlon,"GLAGOW, Martina",GER,Women,10KM Pursuit,Silver
+2006,Turin,Biathlon,"DISL, Uschi",GER,Women,12.5KM Mass Start,Bronze
+2006,Turin,Biathlon,"WILHELM, Kati",GER,Women,12.5KM Mass Start,Silver
+2006,Turin,Biathlon,"GLAGOW, Martina",GER,Women,15KM,Silver
+2006,Turin,Biathlon,"APEL, Katrin",GER,Women,4X6KM Relay,Silver
+2006,Turin,Biathlon,"GLAGOW, Martina",GER,Women,4X6KM Relay,Silver
+2006,Turin,Biathlon,"HENKEL, Andrea",GER,Women,4X6KM Relay,Silver
+2006,Turin,Biathlon,"WILHELM, Kati",GER,Women,4X6KM Relay,Silver
+2006,Turin,Bobsleigh,"KIRIASIS, Sandra",GER,Women,Two-Man,Gold
+2006,Turin,Bobsleigh,"SCHNEIDERHEINZE, Anja",GER,Women,Two-Man,Gold
+2006,Turin,Luge,"HUEFNER, Tatjana",GER,Women,Singles,Bronze
+2006,Turin,Luge,"OTTO, Sylke",GER,Women,Singles,Gold
+2006,Turin,Luge,"KRAUSHAAR, Silke",GER,Women,Singles,Silver
+2006,Turin,Skating,"FRIESINGER-POSTMA, Anna",GER,Women,1000M,Bronze
+2006,Turin,Skating,"PECHSTEIN, Claudia",GER,Women,5000M,Silver
+2006,Turin,Skating,"ANSCHUETZ THOMS, Daniela",GER,Women,Team Pursuit,Gold
+2006,Turin,Skating,"FRIESINGER-POSTMA, Anna",GER,Women,Team Pursuit,Gold
+2006,Turin,Skating,"OPITZ, Lucille",GER,Women,Team Pursuit,Gold
+2006,Turin,Skating,"PECHSTEIN, Claudia",GER,Women,Team Pursuit,Gold
+2006,Turin,Skating,"VOELKER, Sabine",GER,Women,Team Pursuit,Gold
+2006,Turin,Skiing,"BAUER, Viola",GER,Women,4X5KM Relay,Silver
+2006,Turin,Skiing,"BOEHLER, Stefanie",GER,Women,4X5KM Relay,Silver
+2006,Turin,Skiing,"KUENZEL, Claudia",GER,Women,4X5KM Relay,Silver
+2006,Turin,Skiing,"SACHENBACHER STEHLE, Evi",GER,Women,4X5KM Relay,Silver
+2006,Turin,Skiing,"KUENZEL, Claudia",GER,Women,Sprint 1.5KM,Silver
+2006,Turin,Skiing,"KOBER, Amelie",GER,Women,Giant Parallel Slalom,Silver
+2010,Vancouver,Biathlon,"NEUNER, Magdalena",GER,Women,10KM Pursuit,Gold
+2010,Vancouver,Biathlon,"HAUSWALD, Simone",GER,Women,12.5KM Mass Start,Bronze
+2010,Vancouver,Biathlon,"NEUNER, Magdalena",GER,Women,12.5KM Mass Start,Gold
+2010,Vancouver,Biathlon,"BECK, Martina",GER,Women,4X6KM Relay,Bronze
+2010,Vancouver,Biathlon,"HAUSWALD, Simone",GER,Women,4X6KM Relay,Bronze
+2010,Vancouver,Biathlon,"HENKEL, Andrea",GER,Women,4X6KM Relay,Bronze
+2010,Vancouver,Biathlon,"WILHELM, Kati",GER,Women,4X6KM Relay,Bronze
+2010,Vancouver,Biathlon,"NEUNER, Magdalena",GER,Women,7.5KM,Silver
+2010,Vancouver,Bobsleigh,"HUBER, Anja",GER,Women,Individual,Bronze
+2010,Vancouver,Bobsleigh,"SZYMKOWIAK, Kerstin",GER,Women,Individual,Silver
+2010,Vancouver,Luge,"GEISENBERGER, Natalie",GER,Women,Singles,Bronze
+2010,Vancouver,Luge,"HUEFNER, Tatjana",GER,Women,Singles,Gold
+2010,Vancouver,Skating,"SAVCHENKO, Aliona",GER,Women,Pairs,Bronze
+2010,Vancouver,Skating,"BECKERT, Stephanie",GER,Women,3000M,Silver
+2010,Vancouver,Skating,"BECKERT, Stephanie",GER,Women,5000M,Silver
+2010,Vancouver,Skating,"WOLF, Jenny",GER,Women,500M,Silver
+2010,Vancouver,Skating,"ANSCHUTZ THOMS, Daniela",GER,Women,Team Pursuit,Gold
+2010,Vancouver,Skating,"BECKERT, Stephanie",GER,Women,Team Pursuit,Gold
+2010,Vancouver,Skating,"FRIESINGER-POSTMA, Anna",GER,Women,Team Pursuit,Gold
+2010,Vancouver,Skating,"MATTSCHERODT, Katrin",GER,Women,Team Pursuit,Gold
+2010,Vancouver,Skiing,"REBENSBURG, Viktoria",GER,Women,Giant Slalom,Gold
+2010,Vancouver,Skiing,"RIESCH, Maria",GER,Women,Slalom,Gold
+2010,Vancouver,Skiing,"RIESCH, Maria",GER,Women,Super Combined,Gold
+2010,Vancouver,Skiing,"GOSSNER, Miriam",GER,Women,4X5KM Relay,Silver
+2010,Vancouver,Skiing,"NYSTAD, Claudia",GER,Women,4X5KM Relay,Silver
+2010,Vancouver,Skiing,"SACHENBACHER-STEHLE, Evi",GER,Women,4X5KM Relay,Silver
+2010,Vancouver,Skiing,"ZELLER, Katrin",GER,Women,4X5KM Relay,Silver
+2010,Vancouver,Skiing,"NYSTAD, Claudia",GER,Women,Team Sprint,Gold
+2010,Vancouver,Skiing,"SACHENBACHER-STEHLE, Evi",GER,Women,Team Sprint,Gold
+2014,Sochi,Luge,"GEISENBERGER, Natalie",GER,Women,Mixed Relay,Gold
+2014,Sochi,Luge,"GEISENBERGER, Natalie",GER,Women,Singles,Gold
+2014,Sochi,Luge,"HUEFNER, Tatjana",GER,Women,Singles,Silver
+2014,Sochi,Skating,"SAVCHENKO, Aliona",GER,Women,Pairs,Bronze
+2014,Sochi,Skiing,"REBENSBURG, Viktoria",GER,Women,Giant Slalom,Bronze
+2014,Sochi,Skiing,"HOEFL-RIESCH, Maria",GER,Women,Super Combined,Gold
+2014,Sochi,Skiing,"HOEFL-RIESCH, Maria",GER,Women,Super-G,Silver
+2014,Sochi,Skiing,"BOEHLER, Stefanie",GER,Women,4X5KM Relay,Bronze
+2014,Sochi,Skiing,"FESSEL, Nicole",GER,Women,4X5KM Relay,Bronze
+2014,Sochi,Skiing,"HERRMANN, Denise",GER,Women,4X5KM Relay,Bronze
+2014,Sochi,Skiing,"NYSTAD, Claudia",GER,Women,4X5KM Relay,Bronze
+2014,Sochi,Skiing,"VOGT, Carina",GER,Women,K90 Individual,Gold
+2014,Sochi,Skiing,"KARSTENS, Anke",GER,Women,Parallel Slalom,Silver
+2014,Sochi,Skiing,"KOBER, Amelie",GER,Women,Parallel Slalom,Bronze
+1932,Lake Placid,Skating,"ROTTER, Emilia",HUN,Women,Pairs,Bronze
+1936,Garmisch Partenkirchen,Skating,"ROTTER, Emilia",HUN,Women,Pairs,Bronze
+1948,St.Moritz,Skating,"KEKESSY, Andrea",HUN,Women,Pairs,Silver
+1952,Oslo,Skating,"NAGY, Marianna",HUN,Women,Pairs,Bronze
+1956,Cortina d'Ampezzo,Skating,"NAGY, Marianna",HUN,Women,Pairs,Bronze
+1980,Lake Placid,Skating,"REG胆CZY, Krisztina",HUN,Women,Ice Dancing,Silver
+1952,Oslo,Skiing,"MINUZZO CHENAL, Giuliana",ITA,Women,Downhill,Bronze
+1960,Squaw Valley,Skiing,"MINUZZO CHENAL, Giuliana",ITA,Women,Giant Slalom,Bronze
+1968,Grenoble,Luge,"LECHNER, Erica",ITA,Women,Singles,Gold
+1976,Innsbruck,Skiing,"GIORDANI, Claudia",ITA,Women,Slalom,Silver
+1984,Sarajevo,Skiing,"MAGONI, Paoletta",ITA,Women,Slalom,Gold
+1992,Albertville,Skiing,"COMPAGNONI, Deborah",ITA,Women,Super-G,Gold
+1992,Albertville,Skiing,"BELMONDO, Stefania",ITA,Women,30KM,Gold
+1992,Albertville,Skiing,"BELMONDO, Stefania",ITA,Women,4X5KM Relay,Bronze
+1992,Albertville,Skiing,"DI CENTA, Manuela",ITA,Women,4X5KM Relay,Bronze
+1992,Albertville,Skiing,"PARUZZI, Gabriella",ITA,Women,4X5KM Relay,Bronze
+1992,Albertville,Skiing,"VANZETTA, Bice",ITA,Women,4X5KM Relay,Bronze
+1992,Albertville,Skiing,"BELMONDO, Stefania",ITA,Women,Combined 5KM + 10KM Pursuit,Silver
+1994,Lillehammer,Luge,"WEISSENSTEINER, Gerda",ITA,Women,Singles,Gold
+1994,Lillehammer,Skiing,"KOSTNER, Isolde",ITA,Women,Downhill,Bronze
+1994,Lillehammer,Skiing,"COMPAGNONI, Deborah",ITA,Women,Giant Slalom,Gold
+1994,Lillehammer,Skiing,"KOSTNER, Isolde",ITA,Women,Super-G,Bronze
+1994,Lillehammer,Skiing,"DI CENTA, Manuela",ITA,Women,15KM Mass Start,Gold
+1994,Lillehammer,Skiing,"DI CENTA, Manuela",ITA,Women,30KM,Gold
+1994,Lillehammer,Skiing,"BELMONDO, Stefania",ITA,Women,4X5KM Relay,Bronze
+1994,Lillehammer,Skiing,"DI CENTA, Manuela",ITA,Women,4X5KM Relay,Bronze
+1994,Lillehammer,Skiing,"PARUZZI, Gabriella",ITA,Women,4X5KM Relay,Bronze
+1994,Lillehammer,Skiing,"VANZETTA, Bice",ITA,Women,4X5KM Relay,Bronze
+1994,Lillehammer,Skiing,"DI CENTA, Manuela",ITA,Women,5KM,Silver
+1994,Lillehammer,Skiing,"BELMONDO, Stefania",ITA,Women,Combined 5KM + 10KM Pursuit,Bronze
+1994,Lillehammer,Skiing,"DI CENTA, Manuela",ITA,Women,Combined 5KM + 10KM Pursuit,Silver
+1998,Nagano,Skiing,"COMPAGNONI, Deborah",ITA,Women,Giant Slalom,Gold
+1998,Nagano,Skiing,"COMPAGNONI, Deborah",ITA,Women,Slalom,Silver
+1998,Nagano,Skiing,"BELMONDO, Stefania",ITA,Women,30KM,Silver
+1998,Nagano,Skiing,"BELMONDO, Stefania",ITA,Women,4X5KM Relay,Bronze
+1998,Nagano,Skiing,"DI CENTA, Manuela",ITA,Women,4X5KM Relay,Bronze
+1998,Nagano,Skiing,"MORODER, Karin",ITA,Women,4X5KM Relay,Bronze
+1998,Nagano,Skiing,"PARUZZI, Gabriella",ITA,Women,4X5KM Relay,Bronze
+2002,Salt Lake City,Skating,"FUSAR POLI, Barbara",ITA,Women,Ice Dancing,Bronze
+2002,Salt Lake City,Skiing,"KOSTNER, Isolde",ITA,Women,Downhill,Silver
+2002,Salt Lake City,Skiing,"PUTZER, Karen",ITA,Women,Super-G,Bronze
+2002,Salt Lake City,Skiing,"CECCARELLI, Daniela",ITA,Women,Super-G,Gold
+2002,Salt Lake City,Skiing,"BELMONDO, Stefania",ITA,Women,10KM,Bronze
+2002,Salt Lake City,Skiing,"BELMONDO, Stefania",ITA,Women,15KM Mass Start,Gold
+2002,Salt Lake City,Skiing,"PARUZZI, Gabriella",ITA,Women,30KM,Gold
+2002,Salt Lake City,Skiing,"BELMONDO, Stefania",ITA,Women,30KM,Silver
+2002,Salt Lake City,Skiing,"TRETTEL, Lidia",ITA,Women,Giant Parallel Slalom,Bronze
+2006,Turin,Bobsleigh,"ISACCO, Jennifer",ITA,Women,Two-Man,Bronze
+2006,Turin,Bobsleigh,"WEISSENSTEINER, Gerda",ITA,Women,Two-Man,Bronze
+2006,Turin,Skating,"CAPURSO, Marta",ITA,Women,3000M Relay,Bronze
+2006,Turin,Skating,"FONTANA, Arianna",ITA,Women,3000M Relay,Bronze
+2006,Turin,Skating,"ZINI, Katia",ITA,Women,3000M Relay,Bronze
+2006,Turin,Skating,"ZINI, Mara",ITA,Women,3000M Relay,Bronze
+2006,Turin,Skiing,"CONFORTOLA, Antonella",ITA,Women,4X5KM Relay,Bronze
+2006,Turin,Skiing,"FOLLIS, Arianna",ITA,Women,4X5KM Relay,Bronze
+2006,Turin,Skiing,"PARUZZI, Gabriella",ITA,Women,4X5KM Relay,Bronze
+2006,Turin,Skiing,"VALBUSA, Sabina",ITA,Women,4X5KM Relay,Bronze
+2010,Vancouver,Skating,"FONTANA, Arianna",ITA,Women,500M,Bronze
+2014,Sochi,Biathlon,"OBERHOFER, Karin",ITA,Women,Relay Mix,Bronze
+2014,Sochi,Biathlon,"WIERER, Dorothea",ITA,Women,Relay Mix,Bronze
+2014,Sochi,Skating,"KOSTNER, Carolina",ITA,Women,Individual,Bronze
+2014,Sochi,Skating,"FONTANA, Arianna",ITA,Women,1500M,Bronze
+2014,Sochi,Skating,"FONTANA, Arianna",ITA,Women,3000M Relay,Bronze
+2014,Sochi,Skating,"PERETTI, Lucia",ITA,Women,3000M Relay,Bronze
+2014,Sochi,Skating,"VALCEPINA, Martina",ITA,Women,3000M Relay,Bronze
+2014,Sochi,Skating,"VIVIANI, Elena",ITA,Women,3000M Relay,Bronze
+2014,Sochi,Skating,"FONTANA, Arianna",ITA,Women,500M,Silver
+1992,Albertville,Skating,"ITO, Midori",JPN,Women,Individual,Silver
+1992,Albertville,Skating,"HASHIMOTO, Seiko",JPN,Women,1500M,Bronze
+1994,Lillehammer,Skating,"YAMAMOTO, Hiromi",JPN,Women,5000M,Bronze
+1998,Nagano,Skating,"OKAZAKI, Tomomi",JPN,Women,500M,Bronze
+1998,Nagano,Skiing,"SATOYA, Tae",JPN,Women,Moguls,Gold
+2002,Salt Lake City,Skiing,"SATOYA, Tae",JPN,Women,Moguls,Bronze
+2006,Turin,Skating,"ARAKAWA, Shizuka",JPN,Women,Individual,Gold
+2010,Vancouver,Skating,"ASADA, Mao",JPN,Women,Individual,Silver
+2010,Vancouver,Skating,"HOZUMI, Masako",JPN,Women,Team Pursuit,Silver
+2010,Vancouver,Skating,"KODAIRA, Nao",JPN,Women,Team Pursuit,Silver
+2010,Vancouver,Skating,"TABATA, Maki",JPN,Women,Team Pursuit,Silver
+2014,Sochi,Skiing,"ONOZUKA, Ayana",JPN,Women,Ski Halfpipe,Bronze
+2014,Sochi,Skiing,"TAKEUCHI, Tomoka",JPN,Women,Giant Parall.S.,Silver
+1998,Nagano,Skating,"PROKASHEVA, Lyudmila",KAZ,Women,5000M,Bronze
+2010,Vancouver,Biathlon,"KHRUSTALEVA, Elena",KAZ,Women,15KM,Silver
+1994,Lillehammer,Skating,"KIM, So-Hee",KOR,Women,1000M,Bronze
+1994,Lillehammer,Skating,"CHUN, Lee-Kyung",KOR,Women,1000M,Gold
+1994,Lillehammer,Skating,"CHUN, Lee-Kyung",KOR,Women,3000M Relay,Gold
+1994,Lillehammer,Skating,"KIM, Ryang-Hee",KOR,Women,3000M Relay,Gold
+1994,Lillehammer,Skating,"KIM, So-Hee",KOR,Women,3000M Relay,Gold
+1994,Lillehammer,Skating,"KIM, Yoon-Mi",KOR,Women,3000M Relay,Gold
+1994,Lillehammer,Skating,"WON, Hye-Kyung",KOR,Women,3000M Relay,Gold
+1998,Nagano,Skating,"WON, Hye-Kyung",KOR,Women,1000M,Bronze
+1998,Nagano,Skating,"CHUN, Lee-Kyung",KOR,Women,1000M,Gold
+1998,Nagano,Skating,"AN, Sang-Mi",KOR,Women,3000M Relay,Gold
+1998,Nagano,Skating,"CHUN, Lee-Kyung",KOR,Women,3000M Relay,Gold
+1998,Nagano,Skating,"KIM, Yun-Mi",KOR,Women,3000M Relay,Gold
+1998,Nagano,Skating,"WON, Hye-Kyung",KOR,Women,3000M Relay,Gold
+1998,Nagano,Skating,"CHUN, Lee-Kyung",KOR,Women,500M,Bronze
+2002,Salt Lake City,Skating,"KO, Gi-Hyun",KOR,Women,1000M,Silver
+2002,Salt Lake City,Skating,"KO, Gi-Hyun",KOR,Women,1500M,Gold
+2002,Salt Lake City,Skating,"CHOI, Eun-Kyung",KOR,Women,1500M,Silver
+2002,Salt Lake City,Skating,"CHOI, Eun-Kyung",KOR,Women,3000M Relay,Gold
+2002,Salt Lake City,Skating,"CHOI, Min Kyung",KOR,Women,3000M Relay,Gold
+2002,Salt Lake City,Skating,"JOO, Min-Jin",KOR,Women,3000M Relay,Gold
+2002,Salt Lake City,Skating,"PARK, Hye-Won",KOR,Women,3000M Relay,Gold
+2006,Turin,Skating,"JIN, Sun-Yu",KOR,Women,1000M,Gold
+2006,Turin,Skating,"JIN, Sun-Yu",KOR,Women,1500M,Gold
+2006,Turin,Skating,"CHOI, Eun-Kyung",KOR,Women,1500M,Silver
+2006,Turin,Skating,"BYUN, Chun-Sa",KOR,Women,3000M Relay,Gold
+2006,Turin,Skating,"CHOI, Eun-Kyung",KOR,Women,3000M Relay,Gold
+2006,Turin,Skating,"JEON, Da-Hye",KOR,Women,3000M Relay,Gold
+2006,Turin,Skating,"JIN, Sun-Yu",KOR,Women,3000M Relay,Gold
+2006,Turin,Skating,"KANG, Yun-Mi",KOR,Women,3000M Relay,Gold
+2010,Vancouver,Skating,"KIM, Yuna",KOR,Women,Individual,Gold
+2010,Vancouver,Skating,"PARK, Seung-Hi",KOR,Women,1000M,Bronze
+2010,Vancouver,Skating,"PARK, Seung-Hi",KOR,Women,1500M,Bronze
+2010,Vancouver,Skating,"LEE, Eun-Byul",KOR,Women,1500M,Silver
+2010,Vancouver,Skating,"LEE, Sang-Hwa",KOR,Women,500M,Gold
+2014,Sochi,Skating,"KIM, Yuna",KOR,Women,Individual,Silver
+2014,Sochi,Skating,"PARK, Seung-Hi",KOR,Women,1000M,Gold
+2014,Sochi,Skating,"SHIM, Suk Hee",KOR,Women,1000M,Bronze
+2014,Sochi,Skating,"SHIM, Suk Hee",KOR,Women,1500M,Silver
+2014,Sochi,Skating,"CHO, Ha-Ri",KOR,Women,3000M Relay,Gold
+2014,Sochi,Skating,"KIM, Alang",KOR,Women,3000M Relay,Gold
+2014,Sochi,Skating,"KONG, Sangjeong",KOR,Women,3000M Relay,Gold
+2014,Sochi,Skating,"PARK, Seung-Hi",KOR,Women,3000M Relay,Gold
+2014,Sochi,Skating,"SHIM, Suk Hee",KOR,Women,3000M Relay,Gold
+2014,Sochi,Skating,"PARK, Seung-Hi",KOR,Women,500M,Bronze
+2014,Sochi,Skating,"LEE, Sang Hwa",KOR,Women,500M,Gold
+2014,Sochi,Luge,"TIRUMA, Eliza",LAT,Women,Mixed Relay,Bronze
+1976,Innsbruck,Skiing,"WENZEL, Hanni",LIE,Women,Slalom,Bronze
+1980,Lake Placid,Skiing,"WENZEL, Hanni",LIE,Women,Downhill,Silver
+1980,Lake Placid,Skiing,"WENZEL, Hanni",LIE,Women,Giant Slalom,Gold
+1980,Lake Placid,Skiing,"WENZEL, Hanni",LIE,Women,Slalom,Gold
+1984,Sarajevo,Skiing,"KONZETT, Ursula",LIE,Women,Slalom,Bronze
+1960,Squaw Valley,Skating,"DIJKSTRA, Sjoukje",NED,Women,Individual,Silver
+1964,Innsbruck,Skating,"DIJKSTRA, Sjoukje",NED,Women,Individual,Gold
+1968,Grenoble,Skating,"GEIJSSEN, Carolina",NED,Women,1000M,Gold
+1968,Grenoble,Skating,"KAISER, Christina",NED,Women,1500M,Bronze
+1968,Grenoble,Skating,"GEIJSSEN, Carolina",NED,Women,1500M,Silver
+1968,Grenoble,Skating,"KAISER, Christina",NED,Women,3000M,Bronze
+1968,Grenoble,Skating,"SCHUT, Johanna",NED,Women,3000M,Gold
+1972,Sapporo,Skating,"DEELSTRA, Atje",NED,Women,1000M,Silver
+1972,Sapporo,Skating,"DEELSTRA, Atje",NED,Women,1500M,Bronze
+1972,Sapporo,Skating,"KAISER, Christina",NED,Women,1500M,Silver
+1972,Sapporo,Skating,"DEELSTRA, Atje",NED,Women,3000M,Bronze
+1972,Sapporo,Skating,"KAISER, Christina",NED,Women,3000M,Gold
+1976,Innsbruck,Skating,"DE LEEUW, Dianne",NED,Women,Individual,Silver
+1980,Lake Placid,Skating,"BORCKINK, Annie",NED,Women,1500M,Gold
+1980,Lake Placid,Skating,"VISSER, Adriana",NED,Women,1500M,Silver
+1988,Calgary,Skating,"VAN GENNIP, Yvonne",NED,Women,1500M,Gold
+1988,Calgary,Skating,"VAN GENNIP, Yvonne",NED,Women,3000M,Gold
+1988,Calgary,Skating,"VAN GENNIP, Yvonne",NED,Women,5000M,Gold
+1998,Nagano,Skating,"TIMMER, Marianne",NED,Women,1000M,Gold
+1998,Nagano,Skating,"TIMMER, Marianne",NED,Women,1500M,Gold
+2002,Salt Lake City,Skating,"GROENEWOLD, Renate",NED,Women,3000M,Silver
+2002,Salt Lake City,Skating,"SMIT, Gretha",NED,Women,5000M,Silver
+2006,Turin,Skating,"TIMMER, Marianne",NED,Women,1000M,Gold
+2006,Turin,Skating,"WUST, Ireen",NED,Women,1500M,Bronze
+2006,Turin,Skating,"WUST, Ireen",NED,Women,3000M,Gold
+2006,Turin,Skating,"GROENEWOLD, Renate",NED,Women,3000M,Silver
+2010,Vancouver,Skating,"van RIESSEN, Laurine",NED,Women,1000M,Bronze
+2010,Vancouver,Skating,"GERRITSEN, Annette",NED,Women,1000M,Silver
+2010,Vancouver,Skating,"WUST, Ireen",NED,Women,1500M,Gold
+2010,Vancouver,Skiing,"SAUERBREIJ, Nicolien",NED,Women,Giant Parallel Slalom,Gold
+2014,Sochi,Skating,"BOER, Margot",NED,Women,1000M,Bronze
+2014,Sochi,Skating,"W駐ST, Ireen",NED,Women,1000M,Silver
+2014,Sochi,Skating,"TER MORS, Jorien",NED,Women,1500M,Gold
+2014,Sochi,Skating,"van BEEK, Lotte",NED,Women,1500M,Bronze
+2014,Sochi,Skating,"W駐ST, Ireen",NED,Women,1500M,Silver
+2014,Sochi,Skating,"W駐ST, Ireen",NED,Women,3000M,Gold
+2014,Sochi,Skating,"KLEIBEUKER, Carien",NED,Women,5000M,Bronze
+2014,Sochi,Skating,"W駐ST, Ireen",NED,Women,5000M,Silver
+2014,Sochi,Skating,"BOER, Margot",NED,Women,500M,Bronze
+2014,Sochi,Skating,"LEENSTRA, Marrit",NED,Women,Team Pursuit,Gold
+2014,Sochi,Skating,"TER MORS, Jorien",NED,Women,Team Pursuit,Gold
+2014,Sochi,Skating,"van BEEK, Lotte",NED,Women,Team Pursuit,Gold
+2014,Sochi,Skating,"W駐ST, Ireen",NED,Women,Team Pursuit,Gold
+1928,St.Moritz,Skating,"HENIE, Sonja",NOR,Women,Individual,Gold
+1932,Lake Placid,Skating,"HENIE, Sonja",NOR,Women,Individual,Gold
+1936,Garmisch Partenkirchen,Skating,"HENIE, Sonja",NOR,Women,Individual,Gold
+1936,Garmisch Partenkirchen,Skiing,"SCHOU-NILSEN, Laila",NOR,Women,Alpine Combined,Bronze
+1968,Grenoble,Skiing,"AUFLES, Inger",NOR,Women,10KM,Bronze
+1968,Grenoble,Skiing,"M胆RDRE, Berit",NOR,Women,10KM,Silver
+1968,Grenoble,Skiing,"AUFLES, Inger",NOR,Women,3X5KM Relay,Gold
+1968,Grenoble,Skiing,"ENGER, Babben",NOR,Women,3X5KM Relay,Gold
+1968,Grenoble,Skiing,"M胆RDRE, Berit",NOR,Women,3X5KM Relay,Gold
+1972,Sapporo,Skiing,"AUFLES, Inger",NOR,Women,3X5KM Relay,Bronze
+1972,Sapporo,Skiing,"DAHL, Aslaug",NOR,Women,3X5KM Relay,Bronze
+1972,Sapporo,Skiing,"M胆RDRE, Berit",NOR,Women,3X5KM Relay,Bronze
+1976,Innsbruck,Skating,"KORSMO, Lisbeth",NOR,Women,3000M,Bronze
+1980,Lake Placid,Skating,"JENSEN, Bj胆rg Eva",NOR,Women,3000M,Gold
+1980,Lake Placid,Skiing,"AUNLI, Berit",NOR,Women,4X5KM Relay,Bronze
+1980,Lake Placid,Skiing,"B胆E, Anette",NOR,Women,4X5KM Relay,Bronze
+1980,Lake Placid,Skiing,"MYRMAEL, Marit",NOR,Women,4X5KM Relay,Bronze
+1980,Lake Placid,Skiing,"PETTERSEN, Brit",NOR,Women,4X5KM Relay,Bronze
+1984,Sarajevo,Skiing,"PETTERSEN, Brit",NOR,Women,10KM,Bronze
+1984,Sarajevo,Skiing,"JAHREN, Anne",NOR,Women,20KM,Bronze
+1984,Sarajevo,Skiing,"AUNLI, Berit",NOR,Women,4X5KM Relay,Gold
+1984,Sarajevo,Skiing,"JAHREN, Anne",NOR,Women,4X5KM Relay,Gold
+1984,Sarajevo,Skiing,"NYBRAATEN, Inger Helene",NOR,Women,4X5KM Relay,Gold
+1984,Sarajevo,Skiing,"PETTERSEN, Brit",NOR,Women,4X5KM Relay,Gold
+1984,Sarajevo,Skiing,"AUNLI, Berit",NOR,Women,5KM,Silver
+1988,Calgary,Skiing,"DAHLMO, Marianne",NOR,Women,4X5KM Relay,Silver
+1988,Calgary,Skiing,"DYBENDAHL HARTZ, Trude",NOR,Women,4X5KM Relay,Silver
+1988,Calgary,Skiing,"JAHREN, Anne",NOR,Women,4X5KM Relay,Silver
+1988,Calgary,Skiing,"MIKKELSPLASS, Marit",NOR,Women,4X5KM Relay,Silver
+1992,Albertville,Skiing,"DYBENDAHL HARTZ, Trude",NOR,Women,4X5KM Relay,Silver
+1992,Albertville,Skiing,"NILSEN, Elin",NOR,Women,4X5KM Relay,Silver
+1992,Albertville,Skiing,"NYBRAATEN, Inger Helene",NOR,Women,4X5KM Relay,Silver
+1992,Albertville,Skiing,"PEDERSEN, Solveig",NOR,Women,4X5KM Relay,Silver
+1992,Albertville,Skiing,"HATTESTAD, Stine Lise",NOR,Women,Moguls,Bronze
+1994,Lillehammer,Skiing,"MIKKELSPLASS, Marit",NOR,Women,30KM,Silver
+1994,Lillehammer,Skiing,"DYBENDAHL HARTZ, Trude",NOR,Women,4X5KM Relay,Silver
+1994,Lillehammer,Skiing,"MOEN, Anita",NOR,Women,4X5KM Relay,Silver
+1994,Lillehammer,Skiing,"NILSEN, Elin",NOR,Women,4X5KM Relay,Silver
+1994,Lillehammer,Skiing,"NYBRAATEN, Inger Helene",NOR,Women,4X5KM Relay,Silver
+1994,Lillehammer,Skiing,"LID, Hilde Synnove",NOR,Women,Aerials,Bronze
+1994,Lillehammer,Skiing,"HATTESTAD, Stine Lise",NOR,Women,Moguls,Gold
+1998,Nagano,Biathlon,"ANDREASSEN, Gunn Margit",NOR,Women,4X7.5KM Relay,Bronze
+1998,Nagano,Biathlon,"POIREE, Liv Grete",NOR,Women,4X7.5KM Relay,Bronze
+1998,Nagano,Biathlon,"SIKVELAND, Annette",NOR,Women,4X7.5KM Relay,Bronze
+1998,Nagano,Biathlon,"SKJELBREID, Ann Elen",NOR,Women,4X7.5KM Relay,Bronze
+1998,Nagano,Skiing,"MOEN, Anita",NOR,Women,15KM Mass Start,Bronze
+1998,Nagano,Skiing,"MIKKELSPLASS, Marit",NOR,Women,4X5KM Relay,Silver
+1998,Nagano,Skiing,"MOEN, Anita",NOR,Women,4X5KM Relay,Silver
+1998,Nagano,Skiing,"NILSEN, Elin",NOR,Women,4X5KM Relay,Silver
+1998,Nagano,Skiing,"SKARI, Bente",NOR,Women,4X5KM Relay,Silver
+1998,Nagano,Skiing,"SKARI, Bente",NOR,Women,5KM,Bronze
+1998,Nagano,Skiing,"TRAA, Kari",NOR,Women,Moguls,Bronze
+1998,Nagano,Skiing,"KJELDAAS, Stine Brun",NOR,Women,Half-Pipe,Silver
+2002,Salt Lake City,Biathlon,"POIREE, Liv Grete",NOR,Women,15KM,Silver
+2002,Salt Lake City,Biathlon,"ANDREASSEN, Gunn Margit",NOR,Women,4X7.5KM Relay,Silver
+2002,Salt Lake City,Biathlon,"POIREE, Liv Grete",NOR,Women,4X7.5KM Relay,Silver
+2002,Salt Lake City,Biathlon,"SKJELBREID, Ann Elen",NOR,Women,4X7.5KM Relay,Silver
+2002,Salt Lake City,Biathlon,"TJOERHOM, Linda",NOR,Women,4X7.5KM Relay,Silver
+2002,Salt Lake City,Skiing,"SKARI, Bente",NOR,Women,10KM,Gold
+2002,Salt Lake City,Skiing,"SKARI, Bente",NOR,Women,30KM,Bronze
+2002,Salt Lake City,Skiing,"BJOERGEN, Marit",NOR,Women,4X5KM Relay,Silver
+2002,Salt Lake City,Skiing,"MOEN, Anita",NOR,Women,4X5KM Relay,Silver
+2002,Salt Lake City,Skiing,"PEDERSEN, Hilde G",NOR,Women,4X5KM Relay,Silver
+2002,Salt Lake City,Skiing,"SKARI, Bente",NOR,Women,4X5KM Relay,Silver
+2002,Salt Lake City,Skiing,"MOEN, Anita",NOR,Women,Sprint 1.5KM,Bronze
+2002,Salt Lake City,Skiing,"TRAA, Kari",NOR,Women,Moguls,Gold
+2006,Turin,Skiing,"PEDERSEN, Hilde G",NOR,Women,10KM,Bronze
+2006,Turin,Skiing,"BJORGEN, Marit",NOR,Women,10KM,Silver
+2006,Turin,Skiing,"TRAA, Kari",NOR,Women,Moguls,Silver
+2006,Turin,Skiing,"BUAAS, Kjersti",NOR,Women,Half-Pipe,Bronze
+2010,Vancouver,Biathlon,"BERGER, Tora",NOR,Women,15KM,Gold
+2010,Vancouver,Skiing,"BJOERGEN, Marit",NOR,Women,10KM,Bronze
+2010,Vancouver,Skiing,"BJOERGEN, Marit",NOR,Women,30KM,Silver
+2010,Vancouver,Skiing,"BJOERGEN, Marit",NOR,Women,4X5KM Relay,Gold
+2010,Vancouver,Skiing,"JOHAUG, Therese",NOR,Women,4X5KM Relay,Gold
+2010,Vancouver,Skiing,"SKOFTERUD, Vibeke W",NOR,Women,4X5KM Relay,Gold
+2010,Vancouver,Skiing,"STEIRA, Kristin Stoermer",NOR,Women,4X5KM Relay,Gold
+2010,Vancouver,Skiing,"BJOERGEN, Marit",NOR,Women,Combined 7.5 + 7.5Km Mass Start,Gold
+2010,Vancouver,Skiing,"BJOERGEN, Marit",NOR,Women,Sprint 1.5KM,Gold
+2010,Vancouver,Skiing,"BERNTSEN, Hedda",NOR,Women,Ski Cross,Silver
+2014,Sochi,Biathlon,"BERGER, Tora",NOR,Women,10KM Pursuit,Silver
+2014,Sochi,Biathlon,"ECKHOFF, Tiril",NOR,Women,12.5KM Mass Start,Bronze
+2014,Sochi,Biathlon,"BERGER, Tora",NOR,Women,4X6KM Relay,Bronze
+2014,Sochi,Biathlon,"ECKHOFF, Tiril",NOR,Women,4X6KM Relay,Bronze
+2014,Sochi,Biathlon,"FLATLAND, Ann Kristin Aafedt",NOR,Women,4X6KM Relay,Bronze
+2014,Sochi,Biathlon,"HORN, Fanny Welle-Strand",NOR,Women,4X6KM Relay,Bronze
+2014,Sochi,Biathlon,"BERGER, Tora",NOR,Women,Relay Mix,Gold
+2014,Sochi,Biathlon,"ECKHOFF, Tiril",NOR,Women,Relay Mix,Gold
+2014,Sochi,Skiing,"JOHAUG, Therese",NOR,Women,10KM,Bronze
+2014,Sochi,Skiing,"BJOERGEN, Marit",NOR,Women,30KM,Gold
+2014,Sochi,Skiing,"JOHAUG, Therese",NOR,Women,30KM,Silver
+2014,Sochi,Skiing,"STEIRA, Kristin Stoermer",NOR,Women,30KM,Bronze
+2014,Sochi,Skiing,"BJOERGEN, Marit",NOR,Women,Combined7.5+7.5,Gold
+2014,Sochi,Skiing,"WENG, Heidi",NOR,Women,Combined7.5+7.5,Bronze
+2014,Sochi,Skiing,"FALLA, Maiken Caspersen",NOR,Women,Sprint 1.5KM,Gold
+2014,Sochi,Skiing,"OESTBERG, Ingvild Flugstad",NOR,Women,Sprint 1.5KM,Silver
+2014,Sochi,Skiing,"BJOERGEN, Marit",NOR,Women,Team Sprint,Gold
+2014,Sochi,Skiing,"OESTBERG, Ingvild Flugstad",NOR,Women,Team Sprint,Gold
+1992,Albertville,Skiing,"COBERGER, Annelise",NZL,Women,Slalom,Silver
+1960,Squaw Valley,Skating,"PILEJCZYK, Helena",POL,Women,1500M,Bronze
+1960,Squaw Valley,Skating,"SEROCZYNSKA, Elwira",POL,Women,1500M,Silver
+2006,Turin,Skiing,"KOWALCZYK, Justyna",POL,Women,30KM,Bronze
+2010,Vancouver,Skating,"BACHLEDA-CURUS, Katarzyna",POL,Women,Team Pursuit,Bronze
+2010,Vancouver,Skating,"WOZNIAK, Katarzyna",POL,Women,Team Pursuit,Bronze
+2010,Vancouver,Skating,"ZLOTKOWSKA, Luiza",POL,Women,Team Pursuit,Bronze
+2010,Vancouver,Skiing,"KOWALCZYK, Justyna",POL,Women,30KM,Gold
+2010,Vancouver,Skiing,"KOWALCZYK, Justyna",POL,Women,Combined 7.5 + 7.5Km Mass Start,Bronze
+2010,Vancouver,Skiing,"KOWALCZYK, Justyna",POL,Women,Sprint 1.5KM,Silver
+2014,Sochi,Skating,"BACHLEDA-CURUS, Katarzyna",POL,Women,Team Pursuit,Silver
+2014,Sochi,Skating,"CZERWONKA, Natalia",POL,Women,Team Pursuit,Silver
+2014,Sochi,Skating,"WOZNIAK, Katarzyna",POL,Women,Team Pursuit,Silver
+2014,Sochi,Skating,"ZLOTKOWSKA, Luiza",POL,Women,Team Pursuit,Silver
+2014,Sochi,Skiing,"KOWALCZYK, Justyna",POL,Women,10KM,Gold
+1964,Innsbruck,Skating,"HAN, Pil Hwa",PRK,Women,3000M,Silver
+1992,Albertville,Skating,"HWANG, Ok Sil",PRK,Women,500M,Bronze
+1994,Lillehammer,Biathlon,"NOSKOVA, Louiza",RUS,Women,4X7.5KM Relay,Gold
+1994,Lillehammer,Biathlon,"REZTSOVA, Anfisa",RUS,Women,4X7.5KM Relay,Gold
+1994,Lillehammer,Biathlon,"SNYTINA, Natalia",RUS,Women,4X7.5KM Relay,Gold
+1994,Lillehammer,Biathlon,"TALANOVA, Nadejda",RUS,Women,4X7.5KM Relay,Gold
+1994,Lillehammer,Skating,"GRISCHUK, Pasha",RUS,Women,Ice Dancing,Gold
+1994,Lillehammer,Skating,"USOVA, Maya",RUS,Women,Ice Dancing,Silver
+1994,Lillehammer,Skating,"GORDEYEVA, Yekaterina",RUS,Women,Pairs,Gold
+1994,Lillehammer,Skating,"MISHKUTYONOK, Natalya",RUS,Women,Pairs,Silver
+1994,Lillehammer,Skating,"FEDOTKINA, Svetlana",RUS,Women,1500M,Silver
+1994,Lillehammer,Skating,"BAJANOVA, Svetlana",RUS,Women,3000M,Gold
+1994,Lillehammer,Skiing,"GLADISHEVA, Svetlana",RUS,Women,Super-G,Silver
+1994,Lillehammer,Skiing,"GAVRILJUK, Nina",RUS,Women,15KM Mass Start,Bronze
+1994,Lillehammer,Skiing,"EGOROVA, Ljubov",RUS,Women,15KM Mass Start,Silver
+1994,Lillehammer,Skiing,"EGOROVA, Ljubov",RUS,Women,4X5KM Relay,Gold
+1994,Lillehammer,Skiing,"GAVRILJUK, Nina",RUS,Women,4X5KM Relay,Gold
+1994,Lillehammer,Skiing,"LAZUTINA, Larissa",RUS,Women,4X5KM Relay,Gold
+1994,Lillehammer,Skiing,"VAELBE, Elena",RUS,Women,4X5KM Relay,Gold
+1994,Lillehammer,Skiing,"EGOROVA, Ljubov",RUS,Women,5KM,Gold
+1994,Lillehammer,Skiing,"EGOROVA, Ljubov",RUS,Women,Combined 5KM + 10KM Pursuit,Gold
+1994,Lillehammer,Skiing,"KOZHEVNIKOVA, Yelizaveta",RUS,Women,Moguls,Bronze
+1998,Nagano,Biathlon,"AKHATOVA, Albina",RUS,Women,4X7.5KM Relay,Silver
+1998,Nagano,Biathlon,"KOUKLEVA, Galina",RUS,Women,4X7.5KM Relay,Silver
+1998,Nagano,Biathlon,"MELNIK, Olga",RUS,Women,4X7.5KM Relay,Silver
+1998,Nagano,Biathlon,"ROMASKO, Olga",RUS,Women,4X7.5KM Relay,Silver
+1998,Nagano,Biathlon,"KOUKLEVA, Galina",RUS,Women,7.5KM,Gold
+1998,Nagano,Skating,"GRISCHUK, Pasha",RUS,Women,Ice Dancing,Gold
+1998,Nagano,Skating,"KRYLOVA, Anjelika",RUS,Women,Ice Dancing,Silver
+1998,Nagano,Skating,"KAZAKOVA, Oksana",RUS,Women,Pairs,Gold
+1998,Nagano,Skating,"BEREZHNAYA, Elena",RUS,Women,Pairs,Silver
+1998,Nagano,Skiing,"DANILOVA, Olga",RUS,Women,15KM Mass Start,Gold
+1998,Nagano,Skiing,"LAZUTINA, Larissa",RUS,Women,15KM Mass Start,Silver
+1998,Nagano,Skiing,"LAZUTINA, Larissa",RUS,Women,30KM,Bronze
+1998,Nagano,Skiing,"TCHEPALOVA, Julija",RUS,Women,30KM,Gold
+1998,Nagano,Skiing,"DANILOVA, Olga",RUS,Women,4X5KM Relay,Gold
+1998,Nagano,Skiing,"GAVRILJUK, Nina",RUS,Women,4X5KM Relay,Gold
+1998,Nagano,Skiing,"LAZUTINA, Larissa",RUS,Women,4X5KM Relay,Gold
+1998,Nagano,Skiing,"VAELBE, Elena",RUS,Women,4X5KM Relay,Gold
+1998,Nagano,Skiing,"LAZUTINA, Larissa",RUS,Women,5KM,Gold
+1998,Nagano,Skiing,"LAZUTINA, Larissa",RUS,Women,Combined 5KM + 10KM Pursuit,Gold
+1998,Nagano,Skiing,"DANILOVA, Olga",RUS,Women,Combined 5KM + 10KM Pursuit,Silver
+2002,Salt Lake City,Biathlon,"PYLEVA, Olga",RUS,Women,10KM Pursuit,Gold
+2002,Salt Lake City,Biathlon,"AKHATOVA, Albina",RUS,Women,4X7.5KM Relay,Bronze
+2002,Salt Lake City,Biathlon,"ISHMOURATOVA, Svetlana",RUS,Women,4X7.5KM Relay,Bronze
+2002,Salt Lake City,Biathlon,"KOUKLEVA, Galina",RUS,Women,4X7.5KM Relay,Bronze
+2002,Salt Lake City,Biathlon,"PYLEVA, Olga",RUS,Women,4X7.5KM Relay,Bronze
+2002,Salt Lake City,Skating,"LOBACHEVA, Irina",RUS,Women,Ice Dancing,Silver
+2002,Salt Lake City,Skating,"SLUTSKAYA, Irina",RUS,Women,Individual,Silver
+2002,Salt Lake City,Skating,"BEREZHNAYA, Elena",RUS,Women,Pairs,Gold
+2002,Salt Lake City,Skiing,"TCHEPALOVA, Julija",RUS,Women,10KM,Silver
+2002,Salt Lake City,Skiing,"TCHEPALOVA, Julija",RUS,Women,15KM Mass Start,Bronze
+2002,Salt Lake City,Skiing,"TCHEPALOVA, Julija",RUS,Women,Sprint 1.5KM,Gold
+2006,Turin,Biathlon,"AKHATOVA, Albina",RUS,Women,10KM Pursuit,Bronze
+2006,Turin,Biathlon,"AKHATOVA, Albina",RUS,Women,15KM,Bronze
+2006,Turin,Biathlon,"ISHMOURATOVA, Svetlana",RUS,Women,15KM,Gold
+2006,Turin,Biathlon,"AKHATOVA, Albina",RUS,Women,4X6KM Relay,Gold
+2006,Turin,Biathlon,"BOGALIY, Anna",RUS,Women,4X6KM Relay,Gold
+2006,Turin,Biathlon,"ISHMOURATOVA, Svetlana",RUS,Women,4X6KM Relay,Gold
+2006,Turin,Biathlon,"ZAITSEVA, Olga",RUS,Women,4X6KM Relay,Gold
+2006,Turin,Skating,"NAVKA, Tatiana",RUS,Women,Ice Dancing,Gold
+2006,Turin,Skating,"SLUTSKAYA, Irina",RUS,Women,Individual,Bronze
+2006,Turin,Skating,"TOTMIANINA, Tatiana",RUS,Women,Pairs,Gold
+2006,Turin,Skating,"ZHUROVA, Svetlana",RUS,Women,500M,Gold
+2006,Turin,Skating,"ABRAMOVA, Yekaterina",RUS,Women,Team Pursuit,Bronze
+2006,Turin,Skating,"BARYSHEVA, Varvara",RUS,Women,Team Pursuit,Bronze
+2006,Turin,Skating,"LIKHACHOVA, Galina",RUS,Women,Team Pursuit,Bronze
+2006,Turin,Skating,"LOBYSHEVA, Yekaterina",RUS,Women,Team Pursuit,Bronze
+2006,Turin,Skating,"VYSOKOVA, Svetlana",RUS,Women,Team Pursuit,Bronze
+2006,Turin,Skiing,"TCHEPALOVA, Julija",RUS,Women,30KM,Silver
+2006,Turin,Skiing,"BARANOVA-MASOLKINA, Natalia",RUS,Women,4X5KM Relay,Gold
+2006,Turin,Skiing,"KURKINA, Larisa",RUS,Women,4X5KM Relay,Gold
+2006,Turin,Skiing,"MEDVEDEVA-ABRUZOVA, Evgenia",RUS,Women,4X5KM Relay,Gold
+2006,Turin,Skiing,"TCHEPALOVA, Julija",RUS,Women,4X5KM Relay,Gold
+2006,Turin,Skiing,"MEDVEDEVA-ABRUZOVA, Evgenia",RUS,Women,Combined 7.5 + 7.5Km Mass Start,Bronze
+2006,Turin,Skiing,"SIDKO, Alena",RUS,Women,Sprint 1.5KM,Bronze
+2010,Vancouver,Biathlon,"ZAITSEVA, Olga",RUS,Women,12.5KM Mass Start,Silver
+2010,Vancouver,Biathlon,"BOGALIY-TITOVETS, Anna",RUS,Women,4X6KM Relay,Gold
+2010,Vancouver,Biathlon,"MEDVEDTSEVA, Olga",RUS,Women,4X6KM Relay,Gold
+2010,Vancouver,Biathlon,"SLEPTSOVA, Svetlana",RUS,Women,4X6KM Relay,Gold
+2010,Vancouver,Biathlon,"ZAITSEVA, Olga",RUS,Women,4X6KM Relay,Gold
+2010,Vancouver,Skating,"DOMNINA, Oksana",RUS,Women,Ice Dancing,Bronze
+2010,Vancouver,Skiing,"KHAZOVA, Irina",RUS,Women,Team Sprint,Bronze
+2010,Vancouver,Skiing,"KOROSTELEVA, Natalia",RUS,Women,Team Sprint,Bronze
+2010,Vancouver,Skiing,"ILYUKHINA, Ekaterina",RUS,Women,Giant Parallel Slalom,Silver
+2014,Sochi,Biathlon,"ROMANOVA, Yana",RUS,Women,4X6KM Relay,Silver
+2014,Sochi,Biathlon,"SHUMILOVA, Ekaterina",RUS,Women,4X6KM Relay,Silver
+2014,Sochi,Biathlon,"VILUKHINA, Olga",RUS,Women,4X6KM Relay,Silver
+2014,Sochi,Biathlon,"ZAITSEVA, Olga",RUS,Women,4X6KM Relay,Silver
+2014,Sochi,Biathlon,"VILUKHINA, Olga",RUS,Women,7.5KM,Silver
+2014,Sochi,Bobsleigh,"NIKITINA, Elena",RUS,Women,Individual,Bronze
+2014,Sochi,Luge,"IVANOVA, Tatiana",RUS,Women,Mixed Relay,Silver
+2014,Sochi,Skating,"ILINYKH, Elena",RUS,Women,Ice Dancing,Bronze
+2014,Sochi,Skating,"SOTNIKOVA, Adelina",RUS,Women,Individual,Gold
+2014,Sochi,Skating,"STOLBOVA, Ksenia",RUS,Women,Pairs,Silver
+2014,Sochi,Skating,"VOLOSOZHAR, Tatiana",RUS,Women,Pairs,Gold
+2014,Sochi,Skating,"BOBROVA, Ekaterina",RUS,Women,Team,Gold
+2014,Sochi,Skating,"ILINYKH, Elena",RUS,Women,Team,Gold
+2014,Sochi,Skating,"LIPNITSKAYA, Yulia",RUS,Women,Team,Gold
+2014,Sochi,Skating,"STOLBOVA, Ksenia",RUS,Women,Team,Gold
+2014,Sochi,Skating,"VOLOSOZHAR, Tatiana",RUS,Women,Team,Gold
+2014,Sochi,Skating,"GRAF, Olga",RUS,Women,3000M,Bronze
+2014,Sochi,Skating,"FATKULINA, Olga",RUS,Women,500M,Silver
+2014,Sochi,Skating,"GRAF, Olga",RUS,Women,Team Pursuit,Bronze
+2014,Sochi,Skating,"LOBYSHEVA, Yekaterina",RUS,Women,Team Pursuit,Bronze
+2014,Sochi,Skating,"SHIKHOVA, Yekaterina",RUS,Women,Team Pursuit,Bronze
+2014,Sochi,Skating,"SKOKOVA, Yuliya",RUS,Women,Team Pursuit,Bronze
+2014,Sochi,Skiing,"ZAVARZINA, Alena",RUS,Women,Giant Parall.S.,Bronze
+1994,Lillehammer,Skiing,"DOVZAN, Alenka",SLO,Women,Alpine Combined,Bronze
+1994,Lillehammer,Skiing,"KOREN, Katja",SLO,Women,Slalom,Bronze
+2010,Vancouver,Skiing,"MAZE, Tina",SLO,Women,Giant Slalom,Silver
+2010,Vancouver,Skiing,"MAZE, Tina",SLO,Women,Super-G,Silver
+2010,Vancouver,Skiing,"MAJDIC, Petra",SLO,Women,Sprint 1.5KM,Bronze
+2014,Sochi,Biathlon,"GREGORIN, Teja",SLO,Women,10KM Pursuit,Bronze
+2014,Sochi,Skiing,"MAZE, Tina",SLO,Women,Downhill,Gold
+2014,Sochi,Skiing,"MAZE, Tina",SLO,Women,Giant Slalom,Gold
+2014,Sochi,Skiing,"FABJAN, Vesna",SLO,Women,Sprint 1.5KM,Bronze
+1948,St.Moritz,Skiing,"SCHLUNEGGER, Hedy",SUI,Women,Downhill,Gold
+1948,St.Moritz,Skiing,"MEYER, Antoinette",SUI,Women,Slalom,Silver
+1956,Cortina d'Ampezzo,Skiing,"BERTHOD, Madeleine",SUI,Women,Downhill,Gold
+1956,Cortina d'Ampezzo,Skiing,"D爪NZER, Frieda",SUI,Women,Downhill,Silver
+1956,Cortina d'Ampezzo,Skiing,"COLLIARD, Ren朝e",SUI,Women,Slalom,Gold
+1960,Squaw Valley,Skiing,"RUEGG, Yvonne",SUI,Women,Giant Slalom,Gold
+1968,Grenoble,Skiing,"BOCHATAY, Fernande",SUI,Women,Giant Slalom,Bronze
+1972,Sapporo,Skiing,"NADIG, Marie-Theres",SUI,Women,Downhill,Gold
+1972,Sapporo,Skiing,"NADIG, Marie-Theres",SUI,Women,Giant Slalom,Gold
+1980,Lake Placid,Skiing,"NADIG, Marie-Theres",SUI,Women,Downhill,Bronze
+1980,Lake Placid,Skiing,"HESS, Erika",SUI,Women,Slalom,Bronze
+1984,Sarajevo,Skiing,"FIGINI, Michela",SUI,Women,Downhill,Gold
+1984,Sarajevo,Skiing,"WALLISER, Maria",SUI,Women,Downhill,Silver
+1988,Calgary,Skiing,"WALLISER, Maria",SUI,Women,Alpine Combined,Bronze
+1988,Calgary,Skiing,"OERTLI, Brigitte",SUI,Women,Alpine Combined,Silver
+1988,Calgary,Skiing,"OERTLI, Brigitte",SUI,Women,Downhill,Silver
+1988,Calgary,Skiing,"WALLISER, Maria",SUI,Women,Giant Slalom,Bronze
+1988,Calgary,Skiing,"SCHNEIDER, Vreni",SUI,Women,Giant Slalom,Gold
+1988,Calgary,Skiing,"SCHNEIDER, Vreni",SUI,Women,Slalom,Gold
+1988,Calgary,Skiing,"FIGINI, Michela",SUI,Women,Super-G,Silver
+1994,Lillehammer,Skiing,"SCHNEIDER, Vreni",SUI,Women,Alpine Combined,Silver
+1994,Lillehammer,Skiing,"SCHNEIDER, Vreni",SUI,Women,Giant Slalom,Bronze
+1994,Lillehammer,Skiing,"SCHNEIDER, Vreni",SUI,Women,Slalom,Gold
+1998,Nagano,Skiing,"BRAND, Colette",SUI,Women,Aerials,Bronze
+2002,Salt Lake City,Curling,"BIDAUD, Laurence",SUI,Women,Curling,Silver
+2002,Salt Lake City,Curling,"EBNOETHER, Luzia",SUI,Women,Curling,Silver
+2002,Salt Lake City,Curling,"FREI, Tanya",SUI,Women,Curling,Silver
+2002,Salt Lake City,Curling,"OTT, Mirjam",SUI,Women,Curling,Silver
+2002,Salt Lake City,Curling,"ROETHLISBERGER, Nadia",SUI,Women,Curling,Silver
+2002,Salt Lake City,Skiing,"NEF, Sonja",SUI,Women,Giant Slalom,Bronze
+2002,Salt Lake City,Skiing,"ALBRECHT LORETAN, Brigitte",SUI,Women,4X5KM Relay,Bronze
+2002,Salt Lake City,Skiing,"HUBER, Andrea",SUI,Women,4X5KM Relay,Bronze
+2002,Salt Lake City,Skiing,"LEONARDI CORTESI, Natascia",SUI,Women,4X5KM Relay,Bronze
+2002,Salt Lake City,Skiing,"ROCHAT, Laurence",SUI,Women,4X5KM Relay,Bronze
+2002,Salt Lake City,Skiing,"REUTELER, Fabienne",SUI,Women,Half-Pipe,Bronze
+2006,Turin,Bobsleigh,"PEDERSEN, Maya",SUI,Women,Individual,Gold
+2006,Turin,Curling,"BEELI, Binia",SUI,Women,Curling,Silver
+2006,Turin,Curling,"KORMANN, Manuela",SUI,Women,Curling,Silver
+2006,Turin,Curling,"MOSER, Michele",SUI,Women,Curling,Silver
+2006,Turin,Curling,"OTT, Mirjam",SUI,Women,Curling,Silver
+2006,Turin,Curling,"SPAELTY, Valeria",SUI,Women,Curling,Silver
+2006,Turin,Skiing,"SCHILD, Martina",SUI,Women,Downhill,Silver
+2006,Turin,Skiing,"LEU, Evelyne",SUI,Women,Aerials,Gold
+2006,Turin,Skiing,"MEULI, Daniela",SUI,Women,Giant Parallel Slalom,Gold
+2006,Turin,Skiing,"FRIEDEN, Tanja",SUI,Women,Snowboard Cross,Gold
+2010,Vancouver,Skiing,"NOBS, Olivia",SUI,Women,Snowboard Cross,Bronze
+2014,Sochi,Biathlon,"GASPARIN, Selina",SUI,Women,15KM,Silver
+2014,Sochi,Ice Hockey,"ALDER, Janine",SUI,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,"ALTMANN, Livia",SUI,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,"ANTHAMATTEN, Sophie",SUI,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,"BENZ, Laura",SUI,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,"BENZ, Sara",SUI,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,"BULLO, Nicole",SUI,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,"EGGIMANN, Romy",SUI,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,"FORSTER, Sarah",SUI,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,"FRAUTSCHI, Angela",SUI,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,"LUTZ, Jessica",SUI,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,"MARTY, Julia",SUI,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,"MARTY, Stefanie",SUI,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,"MULLER, Alina",SUI,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,"NABHOLZ, Katrin",SUI,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,"RASELLI, Evelina",SUI,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,"SCHELLING, Florence",SUI,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,"STAENZ, Phoebe",SUI,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,"STALDER, Lara",SUI,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,"STIEFEL, Anja",SUI,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,"THALMANN, Sandra",SUI,Women,Ice Hockey,Bronze
+2014,Sochi,Ice Hockey,"WAIDACHER, Nina",SUI,Women,Ice Hockey,Bronze
+2014,Sochi,Skiing,"GISIN, Dominique",SUI,Women,Downhill,Gold
+2014,Sochi,Skiing,"GUT, Lara",SUI,Women,Downhill,Bronze
+2014,Sochi,Skiing,"KUMMER, Patrizia",SUI,Women,Giant Parall.S.,Gold
+2010,Vancouver,Biathlon,"KUZMINA, Anastazia",SVK,Women,10KM Pursuit,Silver
+2010,Vancouver,Biathlon,"KUZMINA, Anastazia",SVK,Women,7.5KM,Gold
+2014,Sochi,Biathlon,"KUZMINA, Anastazia",SVK,Women,7.5KM,Gold
+1936,Garmisch Partenkirchen,Skating,"HULTEN, Vivi-Anne",SWE,Women,Individual,Bronze
+1956,Cortina d'Ampezzo,Skiing,"EDSTR胆M, Sonja",SWE,Women,10KM,Bronze
+1956,Cortina d'Ampezzo,Skiing,"EDSTR胆M, Sonja",SWE,Women,3X5KM Relay,Bronze
+1956,Cortina d'Ampezzo,Skiing,"ERIKSSON, Anna Lisa",SWE,Women,3X5KM Relay,Bronze
+1956,Cortina d'Ampezzo,Skiing,"JOHANSSON, Irma",SWE,Women,3X5KM Relay,Bronze
+1960,Squaw Valley,Skiing,"EDSTR胆M, Sonja",SWE,Women,3X5KM Relay,Gold
+1960,Squaw Valley,Skiing,"JOHANSSON, Irma",SWE,Women,3X5KM Relay,Gold
+1960,Squaw Valley,Skiing,"STRANDBERG, Britt",SWE,Women,3X5KM Relay,Gold
+1964,Innsbruck,Skiing,"GUSTAFSSON, Toini",SWE,Women,3X5KM Relay,Silver
+1964,Innsbruck,Skiing,"MARTINSSON, Barbro",SWE,Women,3X5KM Relay,Silver
+1964,Innsbruck,Skiing,"STRANDBERG, Britt",SWE,Women,3X5KM Relay,Silver
+1968,Grenoble,Skiing,"GUSTAFSSON, Toini",SWE,Women,10KM,Gold
+1968,Grenoble,Skiing,"GUSTAFSSON, Toini",SWE,Women,3X5KM Relay,Silver
+1968,Grenoble,Skiing,"MARTINSSON, Barbro",SWE,Women,3X5KM Relay,Silver
+1968,Grenoble,Skiing,"STRANDBERG, Britt",SWE,Women,3X5KM Relay,Silver
+1968,Grenoble,Skiing,"GUSTAFSSON, Toini",SWE,Women,5KM,Gold
+1992,Albertville,Skiing,"WIBERG, Pernilla",SWE,Women,Giant Slalom,Gold
+1994,Lillehammer,Skiing,"WIBERG, Pernilla",SWE,Women,Alpine Combined,Gold
+1994,Lillehammer,Skiing,"LINDGREN, Marie",SWE,Women,Aerials,Silver
+1998,Nagano,Curling,"GUSTAFSON, Elisabet",SWE,Women,Curling,Bronze
+1998,Nagano,Curling,"LINDAHL, Margaretha",SWE,Women,Curling,Bronze
+1998,Nagano,Curling,"MARMONT, Louise",SWE,Women,Curling,Bronze
+1998,Nagano,Curling,"NYBERG, Katarina",SWE,Women,Curling,Bronze
+1998,Nagano,Curling,"PERSSON, Elisabeth",SWE,Women,Curling,Bronze
+1998,Nagano,Skiing,"WIBERG, Pernilla",SWE,Women,Downhill,Silver
+2002,Salt Lake City,Biathlon,"FORSBERG, Magdalena",SWE,Women,15KM,Bronze
+2002,Salt Lake City,Biathlon,"FORSBERG, Magdalena",SWE,Women,7.5KM,Bronze
+2002,Salt Lake City,Ice Hockey,"AHLEN, Annica",SWE,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"ALMBLAD, Lotta",SWE,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"ANDERSSON, Anna",SWE,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"ANDERSSON, Gunilla",SWE,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"BERGGREN, Emelie",SWE,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"BERGSTRAND, Kristina",SWE,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"EDSTRAND, Ann-Louise",SWE,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"ELFSBERG, Joa",SWE,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"HOLST, Erika",SWE,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"JANSSON, Nanna",SWE,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"LARSSON, Maria",SWE,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"LINDBERG, Ylva",SWE,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"LINDSTROM, Ulrica",SWE,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"MARTIN, Kim",SWE,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"PETTERSSON, Josefin",SWE,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"ROOTH, Maria",SWE,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"RUNDQVIST, Danijela",SWE,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"SAMUELSSON, Evelina",SWE,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"SJOLANDER, Therese",SWE,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Ice Hockey,"VIKMAN, Anna",SWE,Women,Ice Hockey,Bronze
+2002,Salt Lake City,Skiing,"PAERSON, Anja",SWE,Women,Giant Slalom,Silver
+2002,Salt Lake City,Skiing,"PAERSON, Anja",SWE,Women,Slalom,Bronze
+2006,Turin,Biathlon,"OLOFSSON, Anna Carin",SWE,Women,12.5KM Mass Start,Gold
+2006,Turin,Biathlon,"OLOFSSON, Anna Carin",SWE,Women,7.5KM,Silver
+2006,Turin,Curling,"BERGMAN, Ulrika",SWE,Women,Curling,Gold
+2006,Turin,Curling,"LINDAHL, Cathrine",SWE,Women,Curling,Gold
+2006,Turin,Curling,"LUND, Eva",SWE,Women,Curling,Gold
+2006,Turin,Curling,"NORBERG, Anette",SWE,Women,Curling,Gold
+2006,Turin,Curling,"SVAERD, Anna",SWE,Women,Curling,Gold
+2006,Turin,Ice Hockey,"ANDERSSON, Cecilia",SWE,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,"ANDERSSON, Gunilla",SWE,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,"ASSERHOLT, Jenni",SWE,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,"EDSTRAND, Ann-Louise",SWE,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,"ELFSBERG, Joa",SWE,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,"ELIASSON, Emma",SWE,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,"HOLST, Erika",SWE,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,"JANSSON, Nanna",SWE,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,"LINDBERG, Ylva",SWE,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,"LINDQVIST, Jenny",SWE,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,"LUNDBERG, Kristina",SWE,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,"MARTIN, Kim",SWE,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,"NEVALAINEN, Frida",SWE,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,"O KONOR, Emilie",SWE,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,"ROOTH, Maria",SWE,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,"RUNDQVIST, Danijela",SWE,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,"SJOLANDER, Therese",SWE,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,"TIMGLAS, Katarina",SWE,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,"VIKMAN, Anna",SWE,Women,Ice Hockey,Silver
+2006,Turin,Ice Hockey,"WINBERG, Pernilla",SWE,Women,Ice Hockey,Silver
+2006,Turin,Skiing,"PAERSON, Anja",SWE,Women,Alpine Combined,Bronze
+2006,Turin,Skiing,"PAERSON, Anja",SWE,Women,Downhill,Bronze
+2006,Turin,Skiing,"OTTOSSON, Anna",SWE,Women,Giant Slalom,Bronze
+2006,Turin,Skiing,"PAERSON, Anja",SWE,Women,Slalom,Gold
+2006,Turin,Skiing,"ANDERSSON, Lina",SWE,Women,Team Sprint,Gold
+2006,Turin,Skiing,"DAHLBERG, Anna",SWE,Women,Team Sprint,Gold
+2010,Vancouver,Curling,"BERGSTROEM, Kajsa",SWE,Women,Curling,Gold
+2010,Vancouver,Curling,"SVAERD, Anna",SWE,Women,Curling,Gold
+2010,Vancouver,Curling,"LINDAHL, Cathrine",SWE,Women,Curling,Gold
+2010,Vancouver,Curling,"LUND, Eva",SWE,Women,Curling,Gold
+2010,Vancouver,Curling,"NORBERG, Anette",SWE,Women,Curling,Gold
+2010,Vancouver,Skiing,"PAERSON, Anja",SWE,Women,Super Combined,Bronze
+2010,Vancouver,Skiing,"KALLA, Charlotte",SWE,Women,10KM,Gold
+2010,Vancouver,Skiing,"HAAG, Anna",SWE,Women,Combined 7.5 + 7.5Km Mass Start,Silver
+2010,Vancouver,Skiing,"HAAG, Anna",SWE,Women,Team Sprint,Silver
+2010,Vancouver,Skiing,"KALLA, Charlotte",SWE,Women,Team Sprint,Silver
+2014,Sochi,Curling,"BERTRUP, Christina",SWE,Women,Curling,Silver
+2014,Sochi,Curling,"KNOCHENHAUER, Agnes",SWE,Women,Curling,Silver
+2014,Sochi,Curling,"PRYTZ, Maria",SWE,Women,Curling,Silver
+2014,Sochi,Curling,"SIGFRIDSSON, Margaretha",SWE,Women,Curling,Silver
+2014,Sochi,Curling,"WENNERSTROEM, Maria",SWE,Women,Curling,Silver
+2014,Sochi,Skiing,"KALLA, Charlotte",SWE,Women,10KM,Silver
+2014,Sochi,Skiing,"HAAG, Anna",SWE,Women,4X5KM Relay,Gold
+2014,Sochi,Skiing,"INGEMARSDOTTER, Ida",SWE,Women,4X5KM Relay,Gold
+2014,Sochi,Skiing,"KALLA, Charlotte",SWE,Women,4X5KM Relay,Gold
+2014,Sochi,Skiing,"WIKEN, Emma",SWE,Women,4X5KM Relay,Gold
+2014,Sochi,Skiing,"KALLA, Charlotte",SWE,Women,Combined7.5+7.5,Silver
+2014,Sochi,Skiing,"INGEMARSDOTTER, Ida",SWE,Women,Team Sprint,Bronze
+2014,Sochi,Skiing,"NILSSON, Stina",SWE,Women,Team Sprint,Bronze
+2014,Sochi,Skiing,"HOLMLUND, Anna",SWE,Women,Ski Cross,Bronze
+1968,Grenoble,Skating,"MASKOVA, Hana",TCH,Women,Individual,Bronze
+1972,Sapporo,Skiing,"SIKOLOVA, Helena",TCH,Women,5KM,Bronze
+1980,Lake Placid,Skiing,"JERIOVA, Kvetoslava",TCH,Women,5KM,Bronze
+1984,Sarajevo,Skiing,"CHARVATOVA, Olga",TCH,Women,Downhill,Bronze
+1984,Sarajevo,Skiing,"JERIOVA, Kvetoslava",TCH,Women,4X5KM Relay,Silver
+1984,Sarajevo,Skiing,"PAULU, Blanka",TCH,Women,4X5KM Relay,Silver
+1984,Sarajevo,Skiing,"SCHVUBOVA, Dagmar",TCH,Women,4X5KM Relay,Silver
+1984,Sarajevo,Skiing,"SVOBODOVA, Gabriela",TCH,Women,4X5KM Relay,Silver
+1984,Sarajevo,Skiing,"JERIOVA, Kvetoslava",TCH,Women,5KM,Bronze
+1994,Lillehammer,Biathlon,"TSERBE-NESSINA, Valentyna",UKR,Women,7.5KM,Bronze
+1994,Lillehammer,Skating,"BAIUL, Oksana",UKR,Women,Individual,Gold
+1998,Nagano,Biathlon,"PETROVA, Olena",UKR,Women,15KM,Silver
+2006,Turin,Biathlon,"EFREMOVA, Lilia",UKR,Women,7.5KM,Bronze
+2006,Turin,Skating,"GRUSHINA, Elena",UKR,Women,Ice Dancing,Bronze
+2014,Sochi,Biathlon,"DZHYMA, Juliya",UKR,Women,4X6KM Relay,Gold
+2014,Sochi,Biathlon,"PIDHRUSHNA, Olena",UKR,Women,4X6KM Relay,Gold
+2014,Sochi,Biathlon,"SEMERENKO, Valj",UKR,Women,4X6KM Relay,Gold
+2014,Sochi,Biathlon,"SEMERENKO, Vita",UKR,Women,4X6KM Relay,Gold
+2014,Sochi,Biathlon,"SEMERENKO, Vita",UKR,Women,7.5KM,Bronze
+1956,Cortina d'Ampezzo,Skiing,"SIDOROVA, Yevgeniya",URS,Women,Slalom,Bronze
+1956,Cortina d'Ampezzo,Skiing,"BARANOVA, Lyubov",URS,Women,10KM,Gold
+1956,Cortina d'Ampezzo,Skiing,"YEROSHINA, Radya",URS,Women,10KM,Silver
+1956,Cortina d'Ampezzo,Skiing,"BARANOVA, Lyubov",URS,Women,3X5KM Relay,Silver
+1956,Cortina d'Ampezzo,Skiing,"KOLCHINA, Alevtina",URS,Women,3X5KM Relay,Silver
+1956,Cortina d'Ampezzo,Skiing,"YEROSHINA, Radya",URS,Women,3X5KM Relay,Silver
+1960,Squaw Valley,Skating,"RYLOVA, Tamara",URS,Women,1000M,Bronze
+1960,Squaw Valley,Skating,"GUSEVA, Klara",URS,Women,1000M,Gold
+1960,Squaw Valley,Skating,"SKOBLIKOVA, Lidiya",URS,Women,1500M,Gold
+1960,Squaw Valley,Skating,"SKOBLIKOVA, Lidiya",URS,Women,3000M,Gold
+1960,Squaw Valley,Skating,"STENINA, Valentina",URS,Women,3000M,Silver
+1960,Squaw Valley,Skating,"DONCHENKO, Natalya",URS,Women,500M,Silver
+1960,Squaw Valley,Skiing,"YEROSHINA, Radya",URS,Women,10KM,Bronze
+1960,Squaw Valley,Skiing,"GUSAKOVA, Mariya",URS,Women,10KM,Gold
+1960,Squaw Valley,Skiing,"BARANOVA, Lyubov",URS,Women,10KM,Silver
+1960,Squaw Valley,Skiing,"BARANOVA, Lyubov",URS,Women,3X5KM Relay,Silver
+1960,Squaw Valley,Skiing,"GUSAKOVA, Mariya",URS,Women,3X5KM Relay,Silver
+1960,Squaw Valley,Skiing,"YEROSHINA, Radya",URS,Women,3X5KM Relay,Silver
+1964,Innsbruck,Skating,"BELOUSOVA, Lyudmila",URS,Women,Pairs,Gold
+1964,Innsbruck,Skating,"SKOBLIKOVA, Lidiya",URS,Women,1000M,Gold
+1964,Innsbruck,Skating,"YEGOROVA, Irina",URS,Women,1000M,Silver
+1964,Innsbruck,Skating,"KOLOKOLTSEVA, Berta",URS,Women,1500M,Bronze
+1964,Innsbruck,Skating,"SKOBLIKOVA, Lidiya",URS,Women,1500M,Gold
+1964,Innsbruck,Skating,"SKOBLIKOVA, Lidiya",URS,Women,3000M,Gold
+1964,Innsbruck,Skating,"STENINA, Valentina",URS,Women,3000M,Silver
+1964,Innsbruck,Skating,"SIDOROVA, Tatyana",URS,Women,500M,Bronze
+1964,Innsbruck,Skating,"SKOBLIKOVA, Lidiya",URS,Women,500M,Gold
+1964,Innsbruck,Skating,"YEGOROVA, Irina",URS,Women,500M,Silver
+1964,Innsbruck,Skiing,"GUSAKOVA, Mariya",URS,Women,10KM,Bronze
+1964,Innsbruck,Skiing,"BOYARSKIKH, Klavdiya",URS,Women,10KM,Gold
+1964,Innsbruck,Skiing,"MEKSHILO, Yevdoyka",URS,Women,10KM,Silver
+1964,Innsbruck,Skiing,"BOYARSKIKH, Klavdiya",URS,Women,3X5KM Relay,Gold
+1964,Innsbruck,Skiing,"KOLCHINA, Alevtina",URS,Women,3X5KM Relay,Gold
+1964,Innsbruck,Skiing,"MEKSHILO, Yevdoyka",URS,Women,3X5KM Relay,Gold
+1964,Innsbruck,Skiing,"KOLCHINA, Alevtina",URS,Women,5KM,Bronze
+1964,Innsbruck,Skiing,"BOYARSKIKH, Klavdiya",URS,Women,5KM,Gold
+1968,Grenoble,Skating,"BELOUSOVA, Lyudmila",URS,Women,Pairs,Gold
+1968,Grenoble,Skating,"ZHUK, Tatyana",URS,Women,Pairs,Silver
+1968,Grenoble,Skating,"TITOVA, Lyudmila",URS,Women,1000M,Silver
+1968,Grenoble,Skating,"TITOVA, Lyudmila",URS,Women,500M,Gold
+1968,Grenoble,Skiing,"ACHKINA, Rita",URS,Women,3X5KM Relay,Bronze
+1968,Grenoble,Skiing,"KOLCHINA, Alevtina",URS,Women,3X5KM Relay,Bronze
+1968,Grenoble,Skiing,"KULAKOVA, Galina",URS,Women,3X5KM Relay,Bronze
+1968,Grenoble,Skiing,"KOLCHINA, Alevtina",URS,Women,5KM,Bronze
+1968,Grenoble,Skiing,"KULAKOVA, Galina",URS,Women,5KM,Silver
+1972,Sapporo,Skating,"RODNINA, Irina",URS,Women,Pairs,Gold
+1972,Sapporo,Skating,"SMIRNOVA, Lyudmila",URS,Women,Pairs,Silver
+1972,Sapporo,Skating,"TITOVA, Lyudmila",URS,Women,500M,Bronze
+1972,Sapporo,Skating,"KRASNOVA, Vera",URS,Women,500M,Silver
+1972,Sapporo,Skiing,"KULAKOVA, Galina",URS,Women,10KM,Gold
+1972,Sapporo,Skiing,"OLYUNINA, Alevtina",URS,Women,10KM,Silver
+1972,Sapporo,Skiing,"KULAKOVA, Galina",URS,Women,3X5KM Relay,Gold
+1972,Sapporo,Skiing,"MUKHACHEVA, Lubov",URS,Women,3X5KM Relay,Gold
+1972,Sapporo,Skiing,"OLYUNINA, Alevtina",URS,Women,3X5KM Relay,Gold
+1972,Sapporo,Skiing,"KULAKOVA, Galina",URS,Women,5KM,Gold
+1976,Innsbruck,Skating,"PAKHOMOVA, Lyudmila",URS,Women,Ice Dancing,Gold
+1976,Innsbruck,Skating,"MOISEYEVA, Irina",URS,Women,Ice Dancing,Silver
+1976,Innsbruck,Skating,"RODNINA, Irina",URS,Women,Pairs,Gold
+1976,Innsbruck,Skating,"AVERINA, Tatyana",URS,Women,1000M,Gold
+1976,Innsbruck,Skating,"AVERINA, Tatyana",URS,Women,1500M,Bronze
+1976,Innsbruck,Skating,"STEPANSKAYA, Galina",URS,Women,1500M,Gold
+1976,Innsbruck,Skating,"AVERINA, Tatyana",URS,Women,3000M,Gold
+1976,Innsbruck,Skating,"AVERINA, Tatyana",URS,Women,500M,Bronze
+1976,Innsbruck,Skiing,"KULAKOVA, Galina",URS,Women,10KM,Bronze
+1976,Innsbruck,Skiing,"SMETANINA, Raisa",URS,Women,10KM,Gold
+1976,Innsbruck,Skiing,"AMOSOVA, Zinaida",URS,Women,4X5KM Relay,Gold
+1976,Innsbruck,Skiing,"BALDYCHEVA, Nina",URS,Women,4X5KM Relay,Gold
+1976,Innsbruck,Skiing,"KULAKOVA, Galina",URS,Women,4X5KM Relay,Gold
+1976,Innsbruck,Skiing,"SMETANINA, Raisa",URS,Women,4X5KM Relay,Gold
+1976,Innsbruck,Skiing,"BALDYCHEVA, Nina",URS,Women,5KM,Bronze
+1976,Innsbruck,Skiing,"SMETANINA, Raisa",URS,Women,5KM,Silver
+1980,Lake Placid,Luge,"AMANTOVA, Ingrida",URS,Women,Singles,Bronze
+1980,Lake Placid,Luge,"ZOZULA, Vera",URS,Women,Singles,Gold
+1980,Lake Placid,Skating,"MOISEYEVA, Irina",URS,Women,Ice Dancing,Bronze
+1980,Lake Placid,Skating,"LINICHUK, Natalya",URS,Women,Ice Dancing,Gold
+1980,Lake Placid,Skating,"RODNINA, Irina",URS,Women,Pairs,Gold
+1980,Lake Placid,Skating,"CHERKASOVA, Marina",URS,Women,Pairs,Silver
+1980,Lake Placid,Skating,"PETRUSEVA, Natalya",URS,Women,1000M,Gold
+1980,Lake Placid,Skating,"PETRUSEVA, Natalya",URS,Women,500M,Bronze
+1980,Lake Placid,Skiing,"BALDYCHEVA, Nina",URS,Women,4X5KM Relay,Silver
+1980,Lake Placid,Skiing,"KULAKOVA, Galina",URS,Women,4X5KM Relay,Silver
+1980,Lake Placid,Skiing,"ROCHEVA, Nina",URS,Women,4X5KM Relay,Silver
+1980,Lake Placid,Skiing,"SMETANINA, Raisa",URS,Women,4X5KM Relay,Silver
+1980,Lake Placid,Skiing,"SMETANINA, Raisa",URS,Women,5KM,Gold
+1984,Sarajevo,Skating,"KLIMOVA, Marina",URS,Women,Ice Dancing,Bronze
+1984,Sarajevo,Skating,"BESTEMYANOVA, Natalya",URS,Women,Ice Dancing,Silver
+1984,Sarajevo,Skating,"IVANOVA, Kira",URS,Women,Individual,Bronze
+1984,Sarajevo,Skating,"SELEZNYOVA, Larisa",URS,Women,Pairs,Bronze
+1984,Sarajevo,Skating,"VALOVA, Yelena",URS,Women,Pairs,Gold
+1984,Sarajevo,Skating,"PETRUSEVA, Natalya",URS,Women,1000M,Bronze
+1984,Sarajevo,Skating,"PETRUSEVA, Natalya",URS,Women,1500M,Bronze
+1984,Sarajevo,Skating,"SHIVE, Natalya",URS,Women,500M,Bronze
+1984,Sarajevo,Skiing,"SMETANINA, Raisa",URS,Women,10KM,Silver
+1984,Sarajevo,Skiing,"SMETANINA, Raisa",URS,Women,20KM,Silver
+1988,Calgary,Skating,"BESTEMYANOVA, Natalya",URS,Women,Ice Dancing,Gold
+1988,Calgary,Skating,"KLIMOVA, Marina",URS,Women,Ice Dancing,Silver
+1988,Calgary,Skating,"GORDEYEVA, Yekaterina",URS,Women,Pairs,Gold
+1988,Calgary,Skating,"VALOVA, Yelena",URS,Women,Pairs,Silver
+1988,Calgary,Skiing,"VENCIENE, Vida",URS,Women,10KM,Gold
+1988,Calgary,Skiing,"SMETANINA, Raisa",URS,Women,10KM,Silver
+1988,Calgary,Skiing,"SMETANINA, Raisa",URS,Women,20KM,Bronze
+1988,Calgary,Skiing,"TIKHONOVA, Tamara",URS,Women,20KM,Gold
+1988,Calgary,Skiing,"REZTSOVA, Anfisa",URS,Women,20KM,Silver
+1988,Calgary,Skiing,"GAVRILJUK, Nina",URS,Women,4X5KM Relay,Gold
+1988,Calgary,Skiing,"NAGEIKINA, Svetlana",URS,Women,4X5KM Relay,Gold
+1988,Calgary,Skiing,"REZTSOVA, Anfisa",URS,Women,4X5KM Relay,Gold
+1988,Calgary,Skiing,"TIKHONOVA, Tamara",URS,Women,4X5KM Relay,Gold
+1988,Calgary,Skiing,"VENCIENE, Vida",URS,Women,5KM,Bronze
+1988,Calgary,Skiing,"TIKHONOVA, Tamara",URS,Women,5KM,Silver
+1924,Chamonix,Skating,"LOUGHRAN, Beatrix",USA,Women,Individual,Silver
+1928,St.Moritz,Skating,"LOUGHRAN, Beatrix",USA,Women,Individual,Bronze
+1932,Lake Placid,Skating,"VINSON, Maribel",USA,Women,Individual,Bronze
+1932,Lake Placid,Skating,"LOUGHRAN, Beatrix",USA,Women,Pairs,Silver
+1948,St.Moritz,Skiing,"FRASER, Gretchen",USA,Women,Alpine Combined,Silver
+1948,St.Moritz,Skiing,"FRASER, Gretchen",USA,Women,Slalom,Gold
+1952,Oslo,Skating,"ALBRIGHT, Tenley",USA,Women,Individual,Silver
+1952,Oslo,Skating,"KENNEDY, Karol",USA,Women,Pairs,Silver
+1952,Oslo,Skiing,"MEAD LAWRENCE, Andrea",USA,Women,Giant Slalom,Gold
+1952,Oslo,Skiing,"MEAD LAWRENCE, Andrea",USA,Women,Slalom,Gold
+1956,Cortina d'Ampezzo,Skating,"ALBRIGHT, Tenley",USA,Women,Individual,Gold
+1956,Cortina d'Ampezzo,Skating,"HEISS, Carol",USA,Women,Individual,Silver
+1960,Squaw Valley,Skating,"ROLES, Barbara",USA,Women,Individual,Bronze
+1960,Squaw Valley,Skating,"HEISS, Carol",USA,Women,Individual,Gold
+1960,Squaw Valley,Skating,"LUDINGTON, Nancy",USA,Women,Pairs,Bronze
+1960,Squaw Valley,Skating,"ASHWORTH, Jeanne",USA,Women,500M,Bronze
+1960,Squaw Valley,Skiing,"PITOU, Penelope",USA,Women,Downhill,Silver
+1960,Squaw Valley,Skiing,"PITOU, Penelope",USA,Women,Giant Slalom,Silver
+1960,Squaw Valley,Skiing,"SNITE, Betsy",USA,Women,Slalom,Silver
+1964,Innsbruck,Skating,"JOSEPH, Ronald",USA,Women,Pairs,Bronze
+1964,Innsbruck,Skiing,"SAUBERT, Jean",USA,Women,Giant Slalom,Silver
+1964,Innsbruck,Skiing,"SAUBERT, Jean",USA,Women,Slalom,Bronze
+1968,Grenoble,Skating,"FLEMING, Peggy",USA,Women,Individual,Gold
+1968,Grenoble,Skating,"HOLUM, Dianne",USA,Women,1000M,Bronze
+1968,Grenoble,Skating,"FISH, Jennifer",USA,Women,500M,Silver
+1968,Grenoble,Skating,"HOLUM, Dianne",USA,Women,500M,Silver
+1968,Grenoble,Skating,"MEYERS, Mary",USA,Women,500M,Silver
+1972,Sapporo,Skating,"LYNN, Janet",USA,Women,Individual,Bronze
+1972,Sapporo,Skating,"HENNING, Anne",USA,Women,1000M,Bronze
+1972,Sapporo,Skating,"HOLUM, Dianne",USA,Women,1500M,Gold
+1972,Sapporo,Skating,"HOLUM, Dianne",USA,Women,3000M,Silver
+1972,Sapporo,Skating,"HENNING, Anne",USA,Women,500M,Gold
+1972,Sapporo,Skiing,"CORROCK, Susan",USA,Women,Downhill,Bronze
+1972,Sapporo,Skiing,"COCHRAN, Barbara",USA,Women,Slalom,Gold
+1976,Innsbruck,Skating,"O'CONNOR, Colleen",USA,Women,Ice Dancing,Bronze
+1976,Innsbruck,Skating,"HAMILL, Dorothy",USA,Women,Individual,Gold
+1976,Innsbruck,Skating,"YOUNG, Sheila",USA,Women,1000M,Bronze
+1976,Innsbruck,Skating,"MUELLER, Leah",USA,Women,1000M,Silver
+1976,Innsbruck,Skating,"YOUNG, Sheila",USA,Women,1500M,Silver
+1976,Innsbruck,Skating,"YOUNG, Sheila",USA,Women,500M,Gold
+1976,Innsbruck,Skiing,"NELSON, Cynthia",USA,Women,Downhill,Bronze
+1980,Lake Placid,Skating,"FRATIANNE, Linda",USA,Women,Individual,Silver
+1980,Lake Placid,Skating,"MUELLER, Leah",USA,Women,1000M,Silver
+1980,Lake Placid,Skating,"HEIDEN, Beth",USA,Women,3000M,Bronze
+1980,Lake Placid,Skating,"MUELLER, Leah",USA,Women,500M,Silver
+1984,Sarajevo,Skating,"SUMNERS, Rosalyn",USA,Women,Individual,Silver
+1984,Sarajevo,Skating,"CARRUTHERS, Kitty",USA,Women,Pairs,Silver
+1984,Sarajevo,Skiing,"ARMSTRONG, Debbie",USA,Women,Giant Slalom,Gold
+1984,Sarajevo,Skiing,"COOPER, Christin",USA,Women,Giant Slalom,Silver
+1988,Calgary,Skating,"THOMAS, Debra",USA,Women,Individual,Bronze
+1988,Calgary,Skating,"WATSON, Jill",USA,Women,Pairs,Bronze
+1988,Calgary,Skating,"BLAIR, Bonnie",USA,Women,1000M,Bronze
+1988,Calgary,Skating,"BLAIR, Bonnie",USA,Women,500M,Gold
+1992,Albertville,Skating,"KERRIGAN, Nancy",USA,Women,Individual,Bronze
+1992,Albertville,Skating,"YAMAGUCHI, Kristi",USA,Women,Individual,Gold
+1992,Albertville,Skating,"DOHNAL, Darcie",USA,Women,3000M Relay,Silver
+1992,Albertville,Skating,"PETERSON, Amy",USA,Women,3000M Relay,Silver
+1992,Albertville,Skating,"TURNER, Cathy",USA,Women,3000M Relay,Silver
+1992,Albertville,Skating,"ZIEGELMEYER, Nikki",USA,Women,3000M Relay,Silver
+1992,Albertville,Skating,"TURNER, Cathy",USA,Women,500M,Gold
+1992,Albertville,Skating,"BLAIR, Bonnie",USA,Women,1000M,Gold
+1992,Albertville,Skating,"BLAIR, Bonnie",USA,Women,500M,Gold
+1992,Albertville,Skiing,"LINDH, Hilary",USA,Women,Downhill,Silver
+1992,Albertville,Skiing,"ROFFE, Diann",USA,Women,Giant Slalom,Silver
+1992,Albertville,Skiing,"WEINBRECHT, Donna",USA,Women,Moguls,Gold
+1994,Lillehammer,Skating,"KERRIGAN, Nancy",USA,Women,Individual,Silver
+1994,Lillehammer,Skating,"CASHMAN, Karen",USA,Women,3000M Relay,Bronze
+1994,Lillehammer,Skating,"PETERSON, Amy",USA,Women,3000M Relay,Bronze
+1994,Lillehammer,Skating,"SUNDSTROM, Shana",USA,Women,3000M Relay,Bronze
+1994,Lillehammer,Skating,"TURNER, Cathy",USA,Women,3000M Relay,Bronze
+1994,Lillehammer,Skating,"ZIEGELMEYER, Nikki",USA,Women,3000M Relay,Bronze
+1994,Lillehammer,Skating,"PETERSON, Amy",USA,Women,500M,Bronze
+1994,Lillehammer,Skating,"TURNER, Cathy",USA,Women,500M,Gold
+1994,Lillehammer,Skating,"BLAIR, Bonnie",USA,Women,1000M,Gold
+1994,Lillehammer,Skating,"BLAIR, Bonnie",USA,Women,500M,Gold
+1994,Lillehammer,Skiing,"STREET, Picabo",USA,Women,Downhill,Silver
+1994,Lillehammer,Skiing,"ROFFE, Diann",USA,Women,Super-G,Gold
+1994,Lillehammer,Skiing,"MCINTYRE, Elizabeth",USA,Women,Moguls,Silver
+1998,Nagano,Ice Hockey,"BAILEY, Chris",USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,"BAKER, Laurie",USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,"BLAHOSKI, Alana",USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,"BROWN-MILLER, Lisa",USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,"BYE, Karyn",USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,"COYNE, Colleen",USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,"DECOSTA, Sara",USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,"DUNN-LUOMA, Tricia",USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,"GRANATO, Cammi",USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,"KING, Katie",USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,"LOONEY, Shelley",USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,"MERZ, Sue",USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,"MLECZKO, Allison",USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,"MOUNSEY, Tara",USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,"MOVSESSIAN, Vicki",USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,"POTTER, Jenny",USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,"RUGGIERO, Angela",USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,"TUETING, Sarah",USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,"ULION, Gretchen",USA,Women,Ice Hockey,Gold
+1998,Nagano,Ice Hockey,"WHYTE, Sandra",USA,Women,Ice Hockey,Gold
+1998,Nagano,Skating,"LIPINSKI, Tara",USA,Women,Individual,Gold
+1998,Nagano,Skating,"KWAN, Michelle",USA,Women,Individual,Silver
+1998,Nagano,Skating,"WITTY, Christine",USA,Women,1000M,Silver
+1998,Nagano,Skating,"WITTY, Christine",USA,Women,1500M,Bronze
+1998,Nagano,Skiing,"STREET, Picabo",USA,Women,Super-G,Gold
+1998,Nagano,Skiing,"STONE, Nikki",USA,Women,Aerials,Gold
+1998,Nagano,Skiing,"DUNN-DOWNING, Shannon",USA,Women,Half-Pipe,Bronze
+2002,Salt Lake City,Bobsleigh,"BAKKEN, Jill",USA,Women,Two-Man,Gold
+2002,Salt Lake City,Bobsleigh,"FLOWERS, Vonetta",USA,Women,Two-Man,Gold
+2002,Salt Lake City,Bobsleigh,"GALE, Tristan",USA,Women,Individual,Gold
+2002,Salt Lake City,Bobsleigh,"PARSLEY, Lea Ann",USA,Women,Individual,Silver
+2002,Salt Lake City,Ice Hockey,"BAILEY, Chris",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"BAKER, Laurie",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"BYE, Karyn",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"CHU, Julie",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"DARWITZ, Natalie",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"DECOSTA, Sara",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"DUNN-LUOMA, Tricia",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"GRANATO, Cammi",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"KENNEDY, Courtney",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"KILBOURNE, Andrea",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"KING, Katie",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"LOONEY, Shelley",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"MERZ, Sue",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"MLECZKO, Allison",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"MOUNSEY, Tara",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"POTTER, Jenny",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"RUGGIERO, Angela",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"TUETING, Sarah",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"WALL, Lyndsay",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"WENDELL, Krissy",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Skating,"KWAN, Michelle",USA,Women,Individual,Bronze
+2002,Salt Lake City,Skating,"HUGHES, Sarah",USA,Women,Individual,Gold
+2002,Salt Lake City,Skating,"RODRIGUEZ, Jennifer",USA,Women,1000M,Bronze
+2002,Salt Lake City,Skating,"WITTY, Chris",USA,Women,1000M,Gold
+2002,Salt Lake City,Skating,"RODRIGUEZ, Jennifer",USA,Women,1500M,Bronze
+2002,Salt Lake City,Skiing,"BAHRKE, Shannon",USA,Women,Moguls,Silver
+2002,Salt Lake City,Skiing,"CLARK, Kelly",USA,Women,Half-Pipe,Gold
+2006,Turin,Bobsleigh,"FLEMING, Valerie",USA,Women,Two-Man,Silver
+2006,Turin,Bobsleigh,"ROHBOCK, Shauna",USA,Women,Two-Man,Silver
+2006,Turin,Ice Hockey,"CAHOW, Caitlin",USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,"CHU, Julie",USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,"DARWITZ, Natalie",USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,"DREYER, Pam",USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,"DUNN-LUOMA, Tricia",USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,"ENGSTROM, Molly",USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,"GUNN, Chanda",USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,"HAGERMAN, Jamie",USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,"INSALACO, Kim",USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,"KAUTH, Kathleen",USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,"KENNEDY, Courtney",USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,"KING, Katie",USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,"KING, Kristin",USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,"PARSONS, Sarah",USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,"POTTER, Jenny",USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,"RESOR, Helen",USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,"RUGGIERO, Angela",USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,"STEPHENS, Kelly",USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,"WALL, Lyndsay",USA,Women,Ice Hockey,Bronze
+2006,Turin,Ice Hockey,"WENDELL, Krissy",USA,Women,Ice Hockey,Bronze
+2006,Turin,Skating,"BELBIN, Tanith",USA,Women,Ice Dancing,Silver
+2006,Turin,Skating,"COHEN, Sasha",USA,Women,Individual,Silver
+2006,Turin,Skiing,"MANCUSO, Julia",USA,Women,Giant Slalom,Gold
+2006,Turin,Skiing,"FLETCHER, Rosey",USA,Women,Giant Parallel Slalom,Bronze
+2006,Turin,Skiing,"TETER, Hannah",USA,Women,Half-Pipe,Gold
+2006,Turin,Skiing,"BLEILER, Gretchen",USA,Women,Half-Pipe,Silver
+2006,Turin,Skiing,"JACOBELLIS, Lindsey",USA,Women,Snowboard Cross,Silver
+2010,Vancouver,Bobsleigh,"MEYERS, Elana",USA,Women,Two-Man,Bronze
+2010,Vancouver,Bobsleigh,"PAC, Erin",USA,Women,Two-Man,Bronze
+2010,Vancouver,Ice Hockey,"BELLAMY, Kacey",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"CAHOW, Caitlin",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"CHESSON, Lisa",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"CHU, Julie",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"DARWITZ, Natalie",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"DUGGAN, Meghan",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"ENGSTROM, Molly",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"KNIGHT, Hilary",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"LAMOUREUX, Jocelyne",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"LAMOUREUX, Monique",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"LAWLER, Erika",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"MARVIN, Gigi",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"McLAUGHLIN, Brianne",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"POTTER, Jenny",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"RUGGIERO, Angela",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"SCHAUS, Molly",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"STACK, Kelli",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"THATCHER, Karen",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"VETTER, Jessie",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"WEILAND, Kerry",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"ZAUGG-SIERGIEJ, Jinelle",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Skating,"DAVIS, Meryl",USA,Women,Ice Dancing,Silver
+2010,Vancouver,Skating,"REUTTER, Katherine",USA,Women,1000M,Silver
+2010,Vancouver,Skating,"BAVER, Allison",USA,Women,3000M Relay,Bronze
+2010,Vancouver,Skating,"DERRICK, Kimberly",USA,Women,3000M Relay,Bronze
+2010,Vancouver,Skating,"DUDEK, Alyson",USA,Women,3000M Relay,Bronze
+2010,Vancouver,Skating,"GEHRING, Lana",USA,Women,3000M Relay,Bronze
+2010,Vancouver,Skating,"REUTTER, Katherine",USA,Women,3000M Relay,Bronze
+2010,Vancouver,Skiing,"VONN, Lindsey",USA,Women,Downhill,Gold
+2010,Vancouver,Skiing,"MANCUSO, Julia",USA,Women,Downhill,Silver
+2010,Vancouver,Skiing,"MANCUSO, Julia",USA,Women,Super Combined,Silver
+2010,Vancouver,Skiing,"VONN, Lindsey",USA,Women,Super-G,Bronze
+2010,Vancouver,Skiing,"BAHRKE, Shannon",USA,Women,Moguls,Bronze
+2010,Vancouver,Skiing,"KEARNEY, Hannah",USA,Women,Moguls,Gold
+2010,Vancouver,Skiing,"CLARK, Kelly",USA,Women,Half-Pipe,Bronze
+2010,Vancouver,Skiing,"TETER, Hannah",USA,Women,Half-Pipe,Silver
+2014,Sochi,Bobsleigh,"EVANS, Aja",USA,Women,Two-Woman,Bronze
+2014,Sochi,Bobsleigh,"GREUBEL, Jamie",USA,Women,Two-Woman,Bronze
+2014,Sochi,Bobsleigh,"MEYERS, Elana",USA,Women,Two-Woman,Silver
+2014,Sochi,Bobsleigh,"WILLIAMS, Lauryn",USA,Women,Two-Woman,Silver
+2014,Sochi,Bobsleigh,"PIKUS-PACE, Noelle",USA,Women,Individual,Silver
+2014,Sochi,Ice Hockey,"BELLAMY, Kacey",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"BOZEK, Megan",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"CARPENTER, Alex",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"CHU, Julie",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"COYNE, Kendall",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"DECKER, Brianna",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"DUGGAN, Meghan",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"FRY, Lyndsey",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"KESSEL, Amanda",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"KNIGHT, Hilary",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"LAMOUREUX, Jocelyne",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"LAMOUREUX, Monique",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"MARVIN, Gigi",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"MCLAUGHLIN, Brianne",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"PICARD, Michelle",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"PUCCI, Josephine",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"SCHAUS, Molly",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"SCHLEPER, Anne",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"STACK, Kelli",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"STECKLEIN, Lee",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"VETTER, Jessie",USA,Women,Ice Hockey,Silver
+2014,Sochi,Luge,"HAMLIN, Erin",USA,Women,Singles,Bronze
+2014,Sochi,Skating,"DAVIS, Meryl",USA,Women,Ice Dancing,Gold
+2014,Sochi,Skating,"CASTELLI, Marissa",USA,Women,Team,Bronze
+2014,Sochi,Skating,"DAVIS, Meryl",USA,Women,Team,Bronze
+2014,Sochi,Skating,"GOLD, Gracie",USA,Women,Team,Bronze
+2014,Sochi,Skating,"WAGNER, Ashley",USA,Women,Team,Bronze
+2014,Sochi,Skiing,"SHIFFRIN, Mikaela",USA,Women,Slalom,Gold
+2014,Sochi,Skiing,"MANCUSO, Julia",USA,Women,Super Combined,Bronze
+2014,Sochi,Skiing,"KEARNEY, Hannah",USA,Women,Moguls,Bronze
+2014,Sochi,Skiing,"BOWMAN, Maddie",USA,Women,Ski Halfpipe,Gold
+2014,Sochi,Skiing,"LOGAN, Devin",USA,Women,Ski Slopestyle,Silver
+2014,Sochi,Skiing,"CLARK, Kelly",USA,Women,Half-Pipe,Bronze
+2014,Sochi,Skiing,"FARRINGTON, Kaitlyn",USA,Women,Half-Pipe,Gold
+2014,Sochi,Skiing,"ANDERSON, Jamie",USA,Women,Slopestyle,Gold
+1994,Lillehammer,Skiing,"CHERYAZOVA, Lina",UZB,Women,Aerials,Gold
+1988,Calgary,Skiing,"SVET, Mateja",YUG,Women,Slalom,Silver

@@ -1,0 +1,20 @@
+main{
+	font-family: Helvetica, Arial;
+
+}
+h1{
+	padding: 20px 0px 30px 50px;
+}
+body{
+	background-color: #ddd;
+}
+
+.content {
+
+	display: block;
+	margin-left: 300px;
+	margin-right: 300px;
+	
+
+
+}
